@@ -1,0 +1,6662 @@
+[
+ {
+   "ID": 1,
+   "STATE": "AL",
+   "DESTINATION": "Birmingham",
+   "COUNTY_LOCATION": "Jefferson",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$123 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 2,
+   "STATE": "AL",
+   "DESTINATION": "Gulf Shores",
+   "COUNTY_LOCATION": "Baldwin",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 2,
+   "STATE": "AL",
+   "DESTINATION": "Gulf Shores",
+   "COUNTY_LOCATION": "Baldwin",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$164 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 2,
+   "STATE": "AL",
+   "DESTINATION": "Gulf Shores",
+   "COUNTY_LOCATION": "Baldwin",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$237 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 2,
+   "STATE": "AL",
+   "DESTINATION": "Gulf Shores",
+   "COUNTY_LOCATION": "Baldwin",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 3,
+   "STATE": "AL",
+   "DESTINATION": "Huntsville",
+   "COUNTY_LOCATION": "Madison",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 460,
+   "STATE": "AL",
+   "DESTINATION": "Mobile",
+   "COUNTY_LOCATION": "Mobile",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 460,
+   "STATE": "AL",
+   "DESTINATION": "Mobile",
+   "COUNTY_LOCATION": "Mobile",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 460,
+   "STATE": "AL",
+   "DESTINATION": "Mobile",
+   "COUNTY_LOCATION": "Mobile",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 6,
+   "STATE": "AR",
+   "DESTINATION": "Hot Springs",
+   "COUNTY_LOCATION": "Garland",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 9,
+   "STATE": "AZ",
+   "DESTINATION": "Grand Canyon / Flagstaff",
+   "COUNTY_LOCATION": "Coconino / Yavapai less the city of Sedona",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$141 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 9,
+   "STATE": "AZ",
+   "DESTINATION": "Grand Canyon / Flagstaff",
+   "COUNTY_LOCATION": "Coconino / Yavapai less the city of Sedona",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 9,
+   "STATE": "AZ",
+   "DESTINATION": "Grand Canyon / Flagstaff",
+   "COUNTY_LOCATION": "Coconino / Yavapai less the city of Sedona",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$139 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 9,
+   "STATE": "AZ",
+   "DESTINATION": "Grand Canyon / Flagstaff",
+   "COUNTY_LOCATION": "Coconino / Yavapai less the city of Sedona",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$141 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 8,
+   "STATE": "AZ",
+   "DESTINATION": "Kayenta",
+   "COUNTY_LOCATION": "Navajo",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$146 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 10,
+   "STATE": "AZ",
+   "DESTINATION": "Phoenix / Scottsdale",
+   "COUNTY_LOCATION": "Maricopa",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 10,
+   "STATE": "AZ",
+   "DESTINATION": "Phoenix / Scottsdale",
+   "COUNTY_LOCATION": "Maricopa",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$235 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 10,
+   "STATE": "AZ",
+   "DESTINATION": "Phoenix / Scottsdale",
+   "COUNTY_LOCATION": "Maricopa",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$157 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 10,
+   "STATE": "AZ",
+   "DESTINATION": "Phoenix / Scottsdale",
+   "COUNTY_LOCATION": "Maricopa",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$110 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 10,
+   "STATE": "AZ",
+   "DESTINATION": "Phoenix / Scottsdale",
+   "COUNTY_LOCATION": "Maricopa",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 11,
+   "STATE": "AZ",
+   "DESTINATION": "Sedona",
+   "COUNTY_LOCATION": "City Limits of Sedona",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$247 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 11,
+   "STATE": "AZ",
+   "DESTINATION": "Sedona",
+   "COUNTY_LOCATION": "City Limits of Sedona",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$198 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 11,
+   "STATE": "AZ",
+   "DESTINATION": "Sedona",
+   "COUNTY_LOCATION": "City Limits of Sedona",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$313 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 11,
+   "STATE": "AZ",
+   "DESTINATION": "Sedona",
+   "COUNTY_LOCATION": "City Limits of Sedona",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$215 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 11,
+   "STATE": "AZ",
+   "DESTINATION": "Sedona",
+   "COUNTY_LOCATION": "City Limits of Sedona",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$247 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 12,
+   "STATE": "AZ",
+   "DESTINATION": "Tucson",
+   "COUNTY_LOCATION": "Pima",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 12,
+   "STATE": "AZ",
+   "DESTINATION": "Tucson",
+   "COUNTY_LOCATION": "Pima",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 12,
+   "STATE": "AZ",
+   "DESTINATION": "Tucson",
+   "COUNTY_LOCATION": "Pima",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 14,
+   "STATE": "CA",
+   "DESTINATION": "Antioch / Brentwood / Concord",
+   "COUNTY_LOCATION": "Contra Costa",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$165 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 481,
+   "STATE": "CA",
+   "DESTINATION": "Bakersfield / Ridgecrest",
+   "COUNTY_LOCATION": "Kern",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$129 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 16,
+   "STATE": "CA",
+   "DESTINATION": "Barstow / Ontario / Victorville",
+   "COUNTY_LOCATION": "San Bernardino",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$124 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 20,
+   "STATE": "CA",
+   "DESTINATION": "Death Valley",
+   "COUNTY_LOCATION": "Inyo / NAWS China Lake",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$140 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 461,
+   "STATE": "CA",
+   "DESTINATION": "Eureka / Arcata / McKinleyville",
+   "COUNTY_LOCATION": "Humboldt",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$124 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 461,
+   "STATE": "CA",
+   "DESTINATION": "Eureka / Arcata / McKinleyville",
+   "COUNTY_LOCATION": "Humboldt",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$173 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 461,
+   "STATE": "CA",
+   "DESTINATION": "Eureka / Arcata / McKinleyville",
+   "COUNTY_LOCATION": "Humboldt",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$124 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 21,
+   "STATE": "CA",
+   "DESTINATION": "Fresno",
+   "COUNTY_LOCATION": "Fresno",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$124 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 22,
+   "STATE": "CA",
+   "DESTINATION": "Los Angeles",
+   "COUNTY_LOCATION": "Los Angeles / Orange / Ventura / Edwards AFB less the city of Santa Monica",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$183 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 22,
+   "STATE": "CA",
+   "DESTINATION": "Los Angeles",
+   "COUNTY_LOCATION": "Los Angeles / Orange / Ventura / Edwards AFB less the city of Santa Monica",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 22,
+   "STATE": "CA",
+   "DESTINATION": "Los Angeles",
+   "COUNTY_LOCATION": "Los Angeles / Orange / Ventura / Edwards AFB less the city of Santa Monica",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$183 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 23,
+   "STATE": "CA",
+   "DESTINATION": "Mammoth Lakes",
+   "COUNTY_LOCATION": "Mono",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$142 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 23,
+   "STATE": "CA",
+   "DESTINATION": "Mammoth Lakes",
+   "COUNTY_LOCATION": "Mono",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$178 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 23,
+   "STATE": "CA",
+   "DESTINATION": "Mammoth Lakes",
+   "COUNTY_LOCATION": "Mono",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$142 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 24,
+   "STATE": "CA",
+   "DESTINATION": "Mill Valley / San Rafael / Novato",
+   "COUNTY_LOCATION": "Marin",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$189 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 24,
+   "STATE": "CA",
+   "DESTINATION": "Mill Valley / San Rafael / Novato",
+   "COUNTY_LOCATION": "Marin",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$166 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 24,
+   "STATE": "CA",
+   "DESTINATION": "Mill Valley / San Rafael / Novato",
+   "COUNTY_LOCATION": "Marin",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$189 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 26,
+   "STATE": "CA",
+   "DESTINATION": "Monterey",
+   "COUNTY_LOCATION": "Monterey",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$184 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 26,
+   "STATE": "CA",
+   "DESTINATION": "Monterey",
+   "COUNTY_LOCATION": "Monterey",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$251 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 26,
+   "STATE": "CA",
+   "DESTINATION": "Monterey",
+   "COUNTY_LOCATION": "Monterey",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$184 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 27,
+   "STATE": "CA",
+   "DESTINATION": "Napa",
+   "COUNTY_LOCATION": "Napa",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$265 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 27,
+   "STATE": "CA",
+   "DESTINATION": "Napa",
+   "COUNTY_LOCATION": "Napa",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$195 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 27,
+   "STATE": "CA",
+   "DESTINATION": "Napa",
+   "COUNTY_LOCATION": "Napa",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$265 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 28,
+   "STATE": "CA",
+   "DESTINATION": "Oakhurst",
+   "COUNTY_LOCATION": "Madera ",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 28,
+   "STATE": "CA",
+   "DESTINATION": "Oakhurst",
+   "COUNTY_LOCATION": "Madera ",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$149 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 29,
+   "STATE": "CA",
+   "DESTINATION": "Oakland",
+   "COUNTY_LOCATION": "Alameda",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$189 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 30,
+   "STATE": "CA",
+   "DESTINATION": "Palm Springs",
+   "COUNTY_LOCATION": "Riverside",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$184 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 30,
+   "STATE": "CA",
+   "DESTINATION": "Palm Springs",
+   "COUNTY_LOCATION": "Riverside",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$142 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 31,
+   "STATE": "CA",
+   "DESTINATION": "Point Arena / Gualala",
+   "COUNTY_LOCATION": "Mendocino",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 33,
+   "STATE": "CA",
+   "DESTINATION": "Sacramento",
+   "COUNTY_LOCATION": "Sacramento",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$145 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 34,
+   "STATE": "CA",
+   "DESTINATION": "San Diego",
+   "COUNTY_LOCATION": "San Diego",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$194 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 34,
+   "STATE": "CA",
+   "DESTINATION": "San Diego",
+   "COUNTY_LOCATION": "San Diego",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$230 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 34,
+   "STATE": "CA",
+   "DESTINATION": "San Diego",
+   "COUNTY_LOCATION": "San Diego",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$194 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 35,
+   "STATE": "CA",
+   "DESTINATION": "San Francisco",
+   "COUNTY_LOCATION": "San Francisco",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$288 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 35,
+   "STATE": "CA",
+   "DESTINATION": "San Francisco",
+   "COUNTY_LOCATION": "San Francisco",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$333 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 35,
+   "STATE": "CA",
+   "DESTINATION": "San Francisco",
+   "COUNTY_LOCATION": "San Francisco",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$270 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 35,
+   "STATE": "CA",
+   "DESTINATION": "San Francisco",
+   "COUNTY_LOCATION": "San Francisco",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$288 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 36,
+   "STATE": "CA",
+   "DESTINATION": "San Luis Obispo",
+   "COUNTY_LOCATION": "San Luis Obispo",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 36,
+   "STATE": "CA",
+   "DESTINATION": "San Luis Obispo",
+   "COUNTY_LOCATION": "San Luis Obispo",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$196 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 36,
+   "STATE": "CA",
+   "DESTINATION": "San Luis Obispo",
+   "COUNTY_LOCATION": "San Luis Obispo",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 37,
+   "STATE": "CA",
+   "DESTINATION": "San Mateo / Foster City / Belmont",
+   "COUNTY_LOCATION": "San Mateo",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$222 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 38,
+   "STATE": "CA",
+   "DESTINATION": "Santa Barbara",
+   "COUNTY_LOCATION": "Santa Barbara",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$214 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 38,
+   "STATE": "CA",
+   "DESTINATION": "Santa Barbara",
+   "COUNTY_LOCATION": "Santa Barbara",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$289 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 38,
+   "STATE": "CA",
+   "DESTINATION": "Santa Barbara",
+   "COUNTY_LOCATION": "Santa Barbara",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$214 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 39,
+   "STATE": "CA",
+   "DESTINATION": "Santa Cruz",
+   "COUNTY_LOCATION": "Santa Cruz",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$143 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 39,
+   "STATE": "CA",
+   "DESTINATION": "Santa Cruz",
+   "COUNTY_LOCATION": "Santa Cruz",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$181 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 39,
+   "STATE": "CA",
+   "DESTINATION": "Santa Cruz",
+   "COUNTY_LOCATION": "Santa Cruz",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$143 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 40,
+   "STATE": "CA",
+   "DESTINATION": "Santa Monica ",
+   "COUNTY_LOCATION": "City limits of Santa Monica",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$270 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 40,
+   "STATE": "CA",
+   "DESTINATION": "Santa Monica ",
+   "COUNTY_LOCATION": "City limits of Santa Monica",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$298 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 40,
+   "STATE": "CA",
+   "DESTINATION": "Santa Monica ",
+   "COUNTY_LOCATION": "City limits of Santa Monica",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$270 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 41,
+   "STATE": "CA",
+   "DESTINATION": "Santa Rosa",
+   "COUNTY_LOCATION": "Sonoma",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$157 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 42,
+   "STATE": "CA",
+   "DESTINATION": "South Lake Tahoe",
+   "COUNTY_LOCATION": "El Dorado",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$173 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 42,
+   "STATE": "CA",
+   "DESTINATION": "South Lake Tahoe",
+   "COUNTY_LOCATION": "El Dorado",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$143 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 42,
+   "STATE": "CA",
+   "DESTINATION": "South Lake Tahoe",
+   "COUNTY_LOCATION": "El Dorado",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$173 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 43,
+   "STATE": "CA",
+   "DESTINATION": "Stockton ",
+   "COUNTY_LOCATION": "San Joaquin",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$140 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 44,
+   "STATE": "CA",
+   "DESTINATION": "Sunnyvale / Palo Alto / San Jose",
+   "COUNTY_LOCATION": "Santa Clara",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$245 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 45,
+   "STATE": "CA",
+   "DESTINATION": "Tahoe City",
+   "COUNTY_LOCATION": "Placer",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 46,
+   "STATE": "CA",
+   "DESTINATION": "Truckee",
+   "COUNTY_LOCATION": "Nevada ",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$157 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 46,
+   "STATE": "CA",
+   "DESTINATION": "Truckee",
+   "COUNTY_LOCATION": "Nevada ",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 46,
+   "STATE": "CA",
+   "DESTINATION": "Truckee",
+   "COUNTY_LOCATION": "Nevada ",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$160 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 46,
+   "STATE": "CA",
+   "DESTINATION": "Truckee",
+   "COUNTY_LOCATION": "Nevada ",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$157 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 47,
+   "STATE": "CA",
+   "DESTINATION": "Visalia",
+   "COUNTY_LOCATION": "Tulare",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 48,
+   "STATE": "CA",
+   "DESTINATION": "West Sacramento / Davis",
+   "COUNTY_LOCATION": "Yolo",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$138 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 49,
+   "STATE": "CA",
+   "DESTINATION": "Yosemite National Park",
+   "COUNTY_LOCATION": "Mariposa",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$186 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 50,
+   "STATE": "CO",
+   "DESTINATION": "Aspen",
+   "COUNTY_LOCATION": "Pitkin",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$188 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 50,
+   "STATE": "CO",
+   "DESTINATION": "Aspen",
+   "COUNTY_LOCATION": "Pitkin",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$375 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 50,
+   "STATE": "CO",
+   "DESTINATION": "Aspen",
+   "COUNTY_LOCATION": "Pitkin",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$147 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 50,
+   "STATE": "CO",
+   "DESTINATION": "Aspen",
+   "COUNTY_LOCATION": "Pitkin",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$235 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 50,
+   "STATE": "CO",
+   "DESTINATION": "Aspen",
+   "COUNTY_LOCATION": "Pitkin",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$188 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 52,
+   "STATE": "CO",
+   "DESTINATION": "Boulder / Broomfield",
+   "COUNTY_LOCATION": "Boulder / Broomfield",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$135 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 52,
+   "STATE": "CO",
+   "DESTINATION": "Boulder / Broomfield",
+   "COUNTY_LOCATION": "Boulder / Broomfield",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$176 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 52,
+   "STATE": "CO",
+   "DESTINATION": "Boulder / Broomfield",
+   "COUNTY_LOCATION": "Boulder / Broomfield",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$135 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 53,
+   "STATE": "CO",
+   "DESTINATION": "Colorado Springs",
+   "COUNTY_LOCATION": "El Paso",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 53,
+   "STATE": "CO",
+   "DESTINATION": "Colorado Springs",
+   "COUNTY_LOCATION": "El Paso",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$178 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 53,
+   "STATE": "CO",
+   "DESTINATION": "Colorado Springs",
+   "COUNTY_LOCATION": "El Paso",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 54,
+   "STATE": "CO",
+   "DESTINATION": "Cortez",
+   "COUNTY_LOCATION": "Montezuma",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 54,
+   "STATE": "CO",
+   "DESTINATION": "Cortez",
+   "COUNTY_LOCATION": "Montezuma",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 54,
+   "STATE": "CO",
+   "DESTINATION": "Cortez",
+   "COUNTY_LOCATION": "Montezuma",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 55,
+   "STATE": "CO",
+   "DESTINATION": "Crested Butte / Gunnison",
+   "COUNTY_LOCATION": "Gunnison",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$147 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 55,
+   "STATE": "CO",
+   "DESTINATION": "Crested Butte / Gunnison",
+   "COUNTY_LOCATION": "Gunnison",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$175 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 55,
+   "STATE": "CO",
+   "DESTINATION": "Crested Butte / Gunnison",
+   "COUNTY_LOCATION": "Gunnison",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$119 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 55,
+   "STATE": "CO",
+   "DESTINATION": "Crested Butte / Gunnison",
+   "COUNTY_LOCATION": "Gunnison",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$147 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 56,
+   "STATE": "CO",
+   "DESTINATION": "Denver / Aurora",
+   "COUNTY_LOCATION": "Denver / Adams / Arapahoe / Jefferson",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$201 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 56,
+   "STATE": "CO",
+   "DESTINATION": "Denver / Aurora",
+   "COUNTY_LOCATION": "Denver / Adams / Arapahoe / Jefferson",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$153 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 56,
+   "STATE": "CO",
+   "DESTINATION": "Denver / Aurora",
+   "COUNTY_LOCATION": "Denver / Adams / Arapahoe / Jefferson",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 56,
+   "STATE": "CO",
+   "DESTINATION": "Denver / Aurora",
+   "COUNTY_LOCATION": "Denver / Adams / Arapahoe / Jefferson",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$201 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 427,
+   "STATE": "CO",
+   "DESTINATION": "Douglas ",
+   "COUNTY_LOCATION": "Douglas",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 427,
+   "STATE": "CO",
+   "DESTINATION": "Douglas ",
+   "COUNTY_LOCATION": "Douglas",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$140 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 427,
+   "STATE": "CO",
+   "DESTINATION": "Douglas ",
+   "COUNTY_LOCATION": "Douglas",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 57,
+   "STATE": "CO",
+   "DESTINATION": "Durango",
+   "COUNTY_LOCATION": "La Plata",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$119 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 57,
+   "STATE": "CO",
+   "DESTINATION": "Durango",
+   "COUNTY_LOCATION": "La Plata",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$179 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 58,
+   "STATE": "CO",
+   "DESTINATION": "Fort Collins / Loveland",
+   "COUNTY_LOCATION": "Larimer",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$117 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 493,
+   "STATE": "CO",
+   "DESTINATION": "Grand Lake",
+   "COUNTY_LOCATION": "Grand",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$164 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 493,
+   "STATE": "CO",
+   "DESTINATION": "Grand Lake",
+   "COUNTY_LOCATION": "Grand",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$278 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 493,
+   "STATE": "CO",
+   "DESTINATION": "Grand Lake",
+   "COUNTY_LOCATION": "Grand",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$121 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 493,
+   "STATE": "CO",
+   "DESTINATION": "Grand Lake",
+   "COUNTY_LOCATION": "Grand",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$164 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 61,
+   "STATE": "CO",
+   "DESTINATION": "Montrose",
+   "COUNTY_LOCATION": "Montrose",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 61,
+   "STATE": "CO",
+   "DESTINATION": "Montrose",
+   "COUNTY_LOCATION": "Montrose",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 61,
+   "STATE": "CO",
+   "DESTINATION": "Montrose",
+   "COUNTY_LOCATION": "Montrose",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 63,
+   "STATE": "CO",
+   "DESTINATION": "Silverthorne / Breckenridge",
+   "COUNTY_LOCATION": "Summit",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$185 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 63,
+   "STATE": "CO",
+   "DESTINATION": "Silverthorne / Breckenridge",
+   "COUNTY_LOCATION": "Summit",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$332 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 63,
+   "STATE": "CO",
+   "DESTINATION": "Silverthorne / Breckenridge",
+   "COUNTY_LOCATION": "Summit",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 63,
+   "STATE": "CO",
+   "DESTINATION": "Silverthorne / Breckenridge",
+   "COUNTY_LOCATION": "Summit",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$185 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 64,
+   "STATE": "CO",
+   "DESTINATION": "Steamboat Springs",
+   "COUNTY_LOCATION": "Routt",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$158 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 64,
+   "STATE": "CO",
+   "DESTINATION": "Steamboat Springs",
+   "COUNTY_LOCATION": "Routt",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$233 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 64,
+   "STATE": "CO",
+   "DESTINATION": "Steamboat Springs",
+   "COUNTY_LOCATION": "Routt",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$113 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 64,
+   "STATE": "CO",
+   "DESTINATION": "Steamboat Springs",
+   "COUNTY_LOCATION": "Routt",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$158 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 65,
+   "STATE": "CO",
+   "DESTINATION": "Telluride",
+   "COUNTY_LOCATION": "San Miguel",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$197 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 65,
+   "STATE": "CO",
+   "DESTINATION": "Telluride",
+   "COUNTY_LOCATION": "San Miguel",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$418 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 65,
+   "STATE": "CO",
+   "DESTINATION": "Telluride",
+   "COUNTY_LOCATION": "San Miguel",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$197 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 66,
+   "STATE": "CO",
+   "DESTINATION": "Vail",
+   "COUNTY_LOCATION": "Eagle",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$208 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 66,
+   "STATE": "CO",
+   "DESTINATION": "Vail",
+   "COUNTY_LOCATION": "Eagle",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$485 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 66,
+   "STATE": "CO",
+   "DESTINATION": "Vail",
+   "COUNTY_LOCATION": "Eagle",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$208 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 67,
+   "STATE": "CT",
+   "DESTINATION": "Bridgeport / Danbury",
+   "COUNTY_LOCATION": "Fairfield",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$139 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 69,
+   "STATE": "CT",
+   "DESTINATION": "Hartford",
+   "COUNTY_LOCATION": "Hartford",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 71,
+   "STATE": "CT",
+   "DESTINATION": "New Haven",
+   "COUNTY_LOCATION": "New Haven",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 72,
+   "STATE": "CT",
+   "DESTINATION": "New London / Groton",
+   "COUNTY_LOCATION": "New London",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$125 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 75,
+   "STATE": "DC",
+   "DESTINATION": "District of Columbia",
+   "COUNTY_LOCATION": "Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$261 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 75,
+   "STATE": "DC",
+   "DESTINATION": "District of Columbia",
+   "COUNTY_LOCATION": "Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$193 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 75,
+   "STATE": "DC",
+   "DESTINATION": "District of Columbia",
+   "COUNTY_LOCATION": "Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$258 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 75,
+   "STATE": "DC",
+   "DESTINATION": "District of Columbia",
+   "COUNTY_LOCATION": "Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$176 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 75,
+   "STATE": "DC",
+   "DESTINATION": "District of Columbia",
+   "COUNTY_LOCATION": "Washington DC (also the cities of Alexandria, Falls Church and Fairfax, and the counties of Arlington and Fairfax, in Virginia; and the counties of Montgomery and Prince George's in Maryland)",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$261 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 77,
+   "STATE": "DE",
+   "DESTINATION": "Lewes",
+   "COUNTY_LOCATION": "Sussex",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 77,
+   "STATE": "DE",
+   "DESTINATION": "Lewes",
+   "COUNTY_LOCATION": "Sussex",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$180 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 77,
+   "STATE": "DE",
+   "DESTINATION": "Lewes",
+   "COUNTY_LOCATION": "Sussex",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$279 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 77,
+   "STATE": "DE",
+   "DESTINATION": "Lewes",
+   "COUNTY_LOCATION": "Sussex",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 78,
+   "STATE": "DE",
+   "DESTINATION": "Wilmington",
+   "COUNTY_LOCATION": "New Castle",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$131 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 99,
+   "STATE": "FL",
+   "DESTINATION": "Boca Raton / Delray Beach / Jupiter",
+   "COUNTY_LOCATION": "Palm Beach / Hendry",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$161 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 99,
+   "STATE": "FL",
+   "DESTINATION": "Boca Raton / Delray Beach / Jupiter",
+   "COUNTY_LOCATION": "Palm Beach / Hendry",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$255 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 99,
+   "STATE": "FL",
+   "DESTINATION": "Boca Raton / Delray Beach / Jupiter",
+   "COUNTY_LOCATION": "Palm Beach / Hendry",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$161 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 80,
+   "STATE": "FL",
+   "DESTINATION": "Bradenton",
+   "COUNTY_LOCATION": "Manatee",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 80,
+   "STATE": "FL",
+   "DESTINATION": "Bradenton",
+   "COUNTY_LOCATION": "Manatee",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$222 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 80,
+   "STATE": "FL",
+   "DESTINATION": "Bradenton",
+   "COUNTY_LOCATION": "Manatee",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 81,
+   "STATE": "FL",
+   "DESTINATION": "Cocoa Beach",
+   "COUNTY_LOCATION": "Brevard",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$163 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 81,
+   "STATE": "FL",
+   "DESTINATION": "Cocoa Beach",
+   "COUNTY_LOCATION": "Brevard",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$213 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 81,
+   "STATE": "FL",
+   "DESTINATION": "Cocoa Beach",
+   "COUNTY_LOCATION": "Brevard",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$163 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 82,
+   "STATE": "FL",
+   "DESTINATION": "Daytona Beach",
+   "COUNTY_LOCATION": "Volusia",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$125 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 82,
+   "STATE": "FL",
+   "DESTINATION": "Daytona Beach",
+   "COUNTY_LOCATION": "Volusia",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$170 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 82,
+   "STATE": "FL",
+   "DESTINATION": "Daytona Beach",
+   "COUNTY_LOCATION": "Volusia",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$140 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 82,
+   "STATE": "FL",
+   "DESTINATION": "Daytona Beach",
+   "COUNTY_LOCATION": "Volusia",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$125 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 84,
+   "STATE": "FL",
+   "DESTINATION": "Fort Lauderdale",
+   "COUNTY_LOCATION": "Broward",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$190 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 84,
+   "STATE": "FL",
+   "DESTINATION": "Fort Lauderdale",
+   "COUNTY_LOCATION": "Broward",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$250 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 84,
+   "STATE": "FL",
+   "DESTINATION": "Fort Lauderdale",
+   "COUNTY_LOCATION": "Broward",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$158 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 85,
+   "STATE": "FL",
+   "DESTINATION": "Fort Myers",
+   "COUNTY_LOCATION": "Lee",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$138 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 85,
+   "STATE": "FL",
+   "DESTINATION": "Fort Myers",
+   "COUNTY_LOCATION": "Lee",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$201 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 85,
+   "STATE": "FL",
+   "DESTINATION": "Fort Myers",
+   "COUNTY_LOCATION": "Lee",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$252 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 85,
+   "STATE": "FL",
+   "DESTINATION": "Fort Myers",
+   "COUNTY_LOCATION": "Lee",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$138 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 83,
+   "STATE": "FL",
+   "DESTINATION": "Fort Walton Beach / De Funiak Springs",
+   "COUNTY_LOCATION": "Okaloosa / Walton",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$186 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 83,
+   "STATE": "FL",
+   "DESTINATION": "Fort Walton Beach / De Funiak Springs",
+   "COUNTY_LOCATION": "Okaloosa / Walton",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$109 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 83,
+   "STATE": "FL",
+   "DESTINATION": "Fort Walton Beach / De Funiak Springs",
+   "COUNTY_LOCATION": "Okaloosa / Walton",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$191 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 83,
+   "STATE": "FL",
+   "DESTINATION": "Fort Walton Beach / De Funiak Springs",
+   "COUNTY_LOCATION": "Okaloosa / Walton",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$305 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 83,
+   "STATE": "FL",
+   "DESTINATION": "Fort Walton Beach / De Funiak Springs",
+   "COUNTY_LOCATION": "Okaloosa / Walton",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$186 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 89,
+   "STATE": "FL",
+   "DESTINATION": "Gulf Breeze",
+   "COUNTY_LOCATION": "Santa Rosa",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 89,
+   "STATE": "FL",
+   "DESTINATION": "Gulf Breeze",
+   "COUNTY_LOCATION": "Santa Rosa",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$166 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 89,
+   "STATE": "FL",
+   "DESTINATION": "Gulf Breeze",
+   "COUNTY_LOCATION": "Santa Rosa",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$252 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 89,
+   "STATE": "FL",
+   "DESTINATION": "Gulf Breeze",
+   "COUNTY_LOCATION": "Santa Rosa",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 91,
+   "STATE": "FL",
+   "DESTINATION": "Key West",
+   "COUNTY_LOCATION": "Monroe",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$289 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 91,
+   "STATE": "FL",
+   "DESTINATION": "Key West",
+   "COUNTY_LOCATION": "Monroe",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$429 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 91,
+   "STATE": "FL",
+   "DESTINATION": "Key West",
+   "COUNTY_LOCATION": "Monroe",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$329 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 91,
+   "STATE": "FL",
+   "DESTINATION": "Key West",
+   "COUNTY_LOCATION": "Monroe",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$255 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 95,
+   "STATE": "FL",
+   "DESTINATION": "Miami",
+   "COUNTY_LOCATION": "Miami-Dade",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 95,
+   "STATE": "FL",
+   "DESTINATION": "Miami",
+   "COUNTY_LOCATION": "Miami-Dade",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$215 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 95,
+   "STATE": "FL",
+   "DESTINATION": "Miami",
+   "COUNTY_LOCATION": "Miami-Dade",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$199 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 95,
+   "STATE": "FL",
+   "DESTINATION": "Miami",
+   "COUNTY_LOCATION": "Miami-Dade",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$142 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 96,
+   "STATE": "FL",
+   "DESTINATION": "Naples",
+   "COUNTY_LOCATION": "Collier",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 96,
+   "STATE": "FL",
+   "DESTINATION": "Naples",
+   "COUNTY_LOCATION": "Collier",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$246 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 96,
+   "STATE": "FL",
+   "DESTINATION": "Naples",
+   "COUNTY_LOCATION": "Collier",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$316 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 96,
+   "STATE": "FL",
+   "DESTINATION": "Naples",
+   "COUNTY_LOCATION": "Collier",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 98,
+   "STATE": "FL",
+   "DESTINATION": "Orlando",
+   "COUNTY_LOCATION": "Orange",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$140 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 98,
+   "STATE": "FL",
+   "DESTINATION": "Orlando",
+   "COUNTY_LOCATION": "Orange",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$170 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 98,
+   "STATE": "FL",
+   "DESTINATION": "Orlando",
+   "COUNTY_LOCATION": "Orange",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$140 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 100,
+   "STATE": "FL",
+   "DESTINATION": "Panama City",
+   "COUNTY_LOCATION": "Bay",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$146 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 100,
+   "STATE": "FL",
+   "DESTINATION": "Panama City",
+   "COUNTY_LOCATION": "Bay",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$165 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 100,
+   "STATE": "FL",
+   "DESTINATION": "Panama City",
+   "COUNTY_LOCATION": "Bay",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$258 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 100,
+   "STATE": "FL",
+   "DESTINATION": "Panama City",
+   "COUNTY_LOCATION": "Bay",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$146 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 101,
+   "STATE": "FL",
+   "DESTINATION": "Pensacola ",
+   "COUNTY_LOCATION": "Escambia",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 101,
+   "STATE": "FL",
+   "DESTINATION": "Pensacola ",
+   "COUNTY_LOCATION": "Escambia",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 101,
+   "STATE": "FL",
+   "DESTINATION": "Pensacola ",
+   "COUNTY_LOCATION": "Escambia",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$214 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 101,
+   "STATE": "FL",
+   "DESTINATION": "Pensacola ",
+   "COUNTY_LOCATION": "Escambia",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 102,
+   "STATE": "FL",
+   "DESTINATION": "Punta Gorda",
+   "COUNTY_LOCATION": "Charlotte",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$163 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 102,
+   "STATE": "FL",
+   "DESTINATION": "Punta Gorda",
+   "COUNTY_LOCATION": "Charlotte",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$215 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 102,
+   "STATE": "FL",
+   "DESTINATION": "Punta Gorda",
+   "COUNTY_LOCATION": "Charlotte",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 103,
+   "STATE": "FL",
+   "DESTINATION": "Sarasota",
+   "COUNTY_LOCATION": "Sarasota",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$167 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 103,
+   "STATE": "FL",
+   "DESTINATION": "Sarasota",
+   "COUNTY_LOCATION": "Sarasota",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$211 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 103,
+   "STATE": "FL",
+   "DESTINATION": "Sarasota",
+   "COUNTY_LOCATION": "Sarasota",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 104,
+   "STATE": "FL",
+   "DESTINATION": "Sebring",
+   "COUNTY_LOCATION": "Highlands",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$123 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 104,
+   "STATE": "FL",
+   "DESTINATION": "Sebring",
+   "COUNTY_LOCATION": "Highlands",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$208 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 104,
+   "STATE": "FL",
+   "DESTINATION": "Sebring",
+   "COUNTY_LOCATION": "Highlands",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$123 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 105,
+   "STATE": "FL",
+   "DESTINATION": "St. Augustine",
+   "COUNTY_LOCATION": "St. Johns",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$148 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 105,
+   "STATE": "FL",
+   "DESTINATION": "St. Augustine",
+   "COUNTY_LOCATION": "St. Johns",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$168 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 105,
+   "STATE": "FL",
+   "DESTINATION": "St. Augustine",
+   "COUNTY_LOCATION": "St. Johns",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$148 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 106,
+   "STATE": "FL",
+   "DESTINATION": "Stuart",
+   "COUNTY_LOCATION": "Martin",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 106,
+   "STATE": "FL",
+   "DESTINATION": "Stuart",
+   "COUNTY_LOCATION": "Martin",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$215 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 106,
+   "STATE": "FL",
+   "DESTINATION": "Stuart",
+   "COUNTY_LOCATION": "Martin",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 107,
+   "STATE": "FL",
+   "DESTINATION": "Tallahassee",
+   "COUNTY_LOCATION": "Leon",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 107,
+   "STATE": "FL",
+   "DESTINATION": "Tallahassee",
+   "COUNTY_LOCATION": "Leon",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$148 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 107,
+   "STATE": "FL",
+   "DESTINATION": "Tallahassee",
+   "COUNTY_LOCATION": "Leon",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 108,
+   "STATE": "FL",
+   "DESTINATION": "Tampa / St. Petersburg",
+   "COUNTY_LOCATION": "Pinellas / Hillsborough",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$145 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 108,
+   "STATE": "FL",
+   "DESTINATION": "Tampa / St. Petersburg",
+   "COUNTY_LOCATION": "Pinellas / Hillsborough",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$192 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 108,
+   "STATE": "FL",
+   "DESTINATION": "Tampa / St. Petersburg",
+   "COUNTY_LOCATION": "Pinellas / Hillsborough",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$145 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 109,
+   "STATE": "FL",
+   "DESTINATION": "Vero Beach",
+   "COUNTY_LOCATION": "Indian River",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$192 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 109,
+   "STATE": "FL",
+   "DESTINATION": "Vero Beach",
+   "COUNTY_LOCATION": "Indian River",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$294 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 109,
+   "STATE": "FL",
+   "DESTINATION": "Vero Beach",
+   "COUNTY_LOCATION": "Indian River",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$192 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 110,
+   "STATE": "GA",
+   "DESTINATION": "Athens",
+   "COUNTY_LOCATION": "Clarke",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 111,
+   "STATE": "GA",
+   "DESTINATION": "Atlanta",
+   "COUNTY_LOCATION": "Fulton / Dekalb",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$173 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 111,
+   "STATE": "GA",
+   "DESTINATION": "Atlanta",
+   "COUNTY_LOCATION": "Fulton / Dekalb",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$199 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 111,
+   "STATE": "GA",
+   "DESTINATION": "Atlanta",
+   "COUNTY_LOCATION": "Fulton / Dekalb",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$173 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 413,
+   "STATE": "GA",
+   "DESTINATION": "Augusta",
+   "COUNTY_LOCATION": "Richmond",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$117 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 115,
+   "STATE": "GA",
+   "DESTINATION": "Jekyll Island / Brunswick",
+   "COUNTY_LOCATION": "Glynn",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$172 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 115,
+   "STATE": "GA",
+   "DESTINATION": "Jekyll Island / Brunswick",
+   "COUNTY_LOCATION": "Glynn",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$224 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 115,
+   "STATE": "GA",
+   "DESTINATION": "Jekyll Island / Brunswick",
+   "COUNTY_LOCATION": "Glynn",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$172 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 494,
+   "STATE": "GA",
+   "DESTINATION": "Marietta",
+   "COUNTY_LOCATION": "Cobb",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$121 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 116,
+   "STATE": "GA",
+   "DESTINATION": "Savannah",
+   "COUNTY_LOCATION": "Chatham",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$147 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 476,
+   "STATE": "IA",
+   "DESTINATION": "Dallas",
+   "COUNTY_LOCATION": "Dallas",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 118,
+   "STATE": "IA",
+   "DESTINATION": "Des Moines",
+   "COUNTY_LOCATION": "Polk",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$114 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 495,
+   "STATE": "ID",
+   "DESTINATION": "Boise",
+   "COUNTY_LOCATION": "Ada",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$165 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 120,
+   "STATE": "ID",
+   "DESTINATION": "Coeur d'Alene",
+   "COUNTY_LOCATION": "Kootenai",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 120,
+   "STATE": "ID",
+   "DESTINATION": "Coeur d'Alene",
+   "COUNTY_LOCATION": "Kootenai",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$185 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 120,
+   "STATE": "ID",
+   "DESTINATION": "Coeur d'Alene",
+   "COUNTY_LOCATION": "Kootenai",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 122,
+   "STATE": "ID",
+   "DESTINATION": "Sun Valley / Ketchum",
+   "COUNTY_LOCATION": "Blaine / Elmore",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$183 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 122,
+   "STATE": "ID",
+   "DESTINATION": "Sun Valley / Ketchum",
+   "COUNTY_LOCATION": "Blaine / Elmore",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$313 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 122,
+   "STATE": "ID",
+   "DESTINATION": "Sun Valley / Ketchum",
+   "COUNTY_LOCATION": "Blaine / Elmore",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$154 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 122,
+   "STATE": "ID",
+   "DESTINATION": "Sun Valley / Ketchum",
+   "COUNTY_LOCATION": "Blaine / Elmore",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$275 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 422,
+   "STATE": "IL",
+   "DESTINATION": "Bolingbrook / Romeoville / Lemont",
+   "COUNTY_LOCATION": "Will",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$113 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 123,
+   "STATE": "IL",
+   "DESTINATION": "Chicago",
+   "COUNTY_LOCATION": "Cook / Lake",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$233 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 123,
+   "STATE": "IL",
+   "DESTINATION": "Chicago",
+   "COUNTY_LOCATION": "Cook / Lake",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$146 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 123,
+   "STATE": "IL",
+   "DESTINATION": "Chicago",
+   "COUNTY_LOCATION": "Cook / Lake",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$216 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 123,
+   "STATE": "IL",
+   "DESTINATION": "Chicago",
+   "COUNTY_LOCATION": "Cook / Lake",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$213 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 123,
+   "STATE": "IL",
+   "DESTINATION": "Chicago",
+   "COUNTY_LOCATION": "Cook / Lake",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$233 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 462,
+   "STATE": "IL",
+   "DESTINATION": "East St. Louis / O'Fallon / Fairview Heights",
+   "COUNTY_LOCATION": "St. Clair",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 124,
+   "STATE": "IL",
+   "DESTINATION": "Oak Brook Terrace",
+   "COUNTY_LOCATION": "DuPage",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$114 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 127,
+   "STATE": "IN",
+   "DESTINATION": "Bloomington ",
+   "COUNTY_LOCATION": "Monroe",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$108 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 127,
+   "STATE": "IN",
+   "DESTINATION": "Bloomington ",
+   "COUNTY_LOCATION": "Monroe",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 127,
+   "STATE": "IN",
+   "DESTINATION": "Bloomington ",
+   "COUNTY_LOCATION": "Monroe",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$108 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 129,
+   "STATE": "IN",
+   "DESTINATION": "Ft. Wayne",
+   "COUNTY_LOCATION": "Allen",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$108 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 130,
+   "STATE": "IN",
+   "DESTINATION": "Indianapolis / Carmel",
+   "COUNTY_LOCATION": "Marion / Hamilton",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 131,
+   "STATE": "IN",
+   "DESTINATION": "Lafayette / West Lafayette",
+   "COUNTY_LOCATION": "Tippecanoe",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 131,
+   "STATE": "IN",
+   "DESTINATION": "Lafayette / West Lafayette",
+   "COUNTY_LOCATION": "Tippecanoe",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$135 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 137,
+   "STATE": "KS",
+   "DESTINATION": "Kansas City / Overland Park",
+   "COUNTY_LOCATION": "Wyandotte / Johnson / Leavenworth",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 139,
+   "STATE": "KY",
+   "DESTINATION": "Boone",
+   "COUNTY_LOCATION": "Boone",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$114 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 436,
+   "STATE": "KY",
+   "DESTINATION": "Kenton",
+   "COUNTY_LOCATION": "Kenton",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 140,
+   "STATE": "KY",
+   "DESTINATION": "Lexington",
+   "COUNTY_LOCATION": "Fayette",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 141,
+   "STATE": "KY",
+   "DESTINATION": "Louisville",
+   "COUNTY_LOCATION": "Jefferson",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 141,
+   "STATE": "KY",
+   "DESTINATION": "Louisville",
+   "COUNTY_LOCATION": "Jefferson",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 141,
+   "STATE": "KY",
+   "DESTINATION": "Louisville",
+   "COUNTY_LOCATION": "Jefferson",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$149 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 141,
+   "STATE": "KY",
+   "DESTINATION": "Louisville",
+   "COUNTY_LOCATION": "Jefferson",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 478,
+   "STATE": "LA",
+   "DESTINATION": "Alexandria / Leesville / Natchitoches",
+   "COUNTY_LOCATION": "Allen / Jefferson Davis / Natchitoches / Rapides / Vernon Parishes",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$109 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 144,
+   "STATE": "LA",
+   "DESTINATION": "New Orleans",
+   "COUNTY_LOCATION": "Orleans / Jefferson Parishes",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$162 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 144,
+   "STATE": "LA",
+   "DESTINATION": "New Orleans",
+   "COUNTY_LOCATION": "Orleans / Jefferson Parishes",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$184 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 144,
+   "STATE": "LA",
+   "DESTINATION": "New Orleans",
+   "COUNTY_LOCATION": "Orleans / Jefferson Parishes",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$143 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 144,
+   "STATE": "LA",
+   "DESTINATION": "New Orleans",
+   "COUNTY_LOCATION": "Orleans / Jefferson Parishes",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$162 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 147,
+   "STATE": "MA",
+   "DESTINATION": "Andover",
+   "COUNTY_LOCATION": "Essex",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 148,
+   "STATE": "MA",
+   "DESTINATION": "Boston / Cambridge",
+   "COUNTY_LOCATION": "Suffolk, city of Cambridge",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$322 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 148,
+   "STATE": "MA",
+   "DESTINATION": "Boston / Cambridge",
+   "COUNTY_LOCATION": "Suffolk, city of Cambridge",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$197 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 148,
+   "STATE": "MA",
+   "DESTINATION": "Boston / Cambridge",
+   "COUNTY_LOCATION": "Suffolk, city of Cambridge",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$281 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 148,
+   "STATE": "MA",
+   "DESTINATION": "Boston / Cambridge",
+   "COUNTY_LOCATION": "Suffolk, city of Cambridge",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$274 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 148,
+   "STATE": "MA",
+   "DESTINATION": "Boston / Cambridge",
+   "COUNTY_LOCATION": "Suffolk, city of Cambridge",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$322 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 149,
+   "STATE": "MA",
+   "DESTINATION": "Burlington / Woburn",
+   "COUNTY_LOCATION": "Middlesex less the city of Cambridge",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$168 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 149,
+   "STATE": "MA",
+   "DESTINATION": "Burlington / Woburn",
+   "COUNTY_LOCATION": "Middlesex less the city of Cambridge",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$142 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 149,
+   "STATE": "MA",
+   "DESTINATION": "Burlington / Woburn",
+   "COUNTY_LOCATION": "Middlesex less the city of Cambridge",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$168 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 150,
+   "STATE": "MA",
+   "DESTINATION": "Falmouth",
+   "COUNTY_LOCATION": "City limits of Falmouth",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$171 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 150,
+   "STATE": "MA",
+   "DESTINATION": "Falmouth",
+   "COUNTY_LOCATION": "City limits of Falmouth",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$231 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 150,
+   "STATE": "MA",
+   "DESTINATION": "Falmouth",
+   "COUNTY_LOCATION": "City limits of Falmouth",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$383 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 150,
+   "STATE": "MA",
+   "DESTINATION": "Falmouth",
+   "COUNTY_LOCATION": "City limits of Falmouth",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$171 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 151,
+   "STATE": "MA",
+   "DESTINATION": "Hyannis",
+   "COUNTY_LOCATION": "Barnstable less the city of Falmouth",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 151,
+   "STATE": "MA",
+   "DESTINATION": "Hyannis",
+   "COUNTY_LOCATION": "Barnstable less the city of Falmouth",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$232 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 151,
+   "STATE": "MA",
+   "DESTINATION": "Hyannis",
+   "COUNTY_LOCATION": "Barnstable less the city of Falmouth",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 152,
+   "STATE": "MA",
+   "DESTINATION": "Martha's Vineyard",
+   "COUNTY_LOCATION": "Dukes",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$202 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 152,
+   "STATE": "MA",
+   "DESTINATION": "Martha's Vineyard",
+   "COUNTY_LOCATION": "Dukes",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$411 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 153,
+   "STATE": "MA",
+   "DESTINATION": "Nantucket",
+   "COUNTY_LOCATION": "Nantucket",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$217 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 153,
+   "STATE": "MA",
+   "DESTINATION": "Nantucket",
+   "COUNTY_LOCATION": "Nantucket",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$459 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 154,
+   "STATE": "MA",
+   "DESTINATION": "Northampton",
+   "COUNTY_LOCATION": "Hampshire",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$146 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 155,
+   "STATE": "MA",
+   "DESTINATION": "Pittsfield",
+   "COUNTY_LOCATION": "Berkshire",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$131 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 155,
+   "STATE": "MA",
+   "DESTINATION": "Pittsfield",
+   "COUNTY_LOCATION": "Berkshire",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$160 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 155,
+   "STATE": "MA",
+   "DESTINATION": "Pittsfield",
+   "COUNTY_LOCATION": "Berkshire",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$131 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 156,
+   "STATE": "MA",
+   "DESTINATION": "Plymouth / Taunton / New Bedford",
+   "COUNTY_LOCATION": "Plymouth / Bristol",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 157,
+   "STATE": "MA",
+   "DESTINATION": "Quincy",
+   "COUNTY_LOCATION": "Norfolk",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 158,
+   "STATE": "MA",
+   "DESTINATION": "Springfield",
+   "COUNTY_LOCATION": "Hampden",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 160,
+   "STATE": "MA",
+   "DESTINATION": "Worcester",
+   "COUNTY_LOCATION": "Worcester",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 161,
+   "STATE": "MD",
+   "DESTINATION": "Aberdeen / Bel Air / Belcamp",
+   "COUNTY_LOCATION": "Harford",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$108 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 162,
+   "STATE": "MD",
+   "DESTINATION": "Annapolis",
+   "COUNTY_LOCATION": "Anne Arundel",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$147 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 162,
+   "STATE": "MD",
+   "DESTINATION": "Annapolis",
+   "COUNTY_LOCATION": "Anne Arundel",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 162,
+   "STATE": "MD",
+   "DESTINATION": "Annapolis",
+   "COUNTY_LOCATION": "Anne Arundel",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$147 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 163,
+   "STATE": "MD",
+   "DESTINATION": "Baltimore City",
+   "COUNTY_LOCATION": "Baltimore City",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 163,
+   "STATE": "MD",
+   "DESTINATION": "Baltimore City",
+   "COUNTY_LOCATION": "Baltimore City",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$151 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 163,
+   "STATE": "MD",
+   "DESTINATION": "Baltimore City",
+   "COUNTY_LOCATION": "Baltimore City",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 164,
+   "STATE": "MD",
+   "DESTINATION": "Cambridge / St. Michaels",
+   "COUNTY_LOCATION": "Dorchester / Talbot",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$139 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 164,
+   "STATE": "MD",
+   "DESTINATION": "Cambridge / St. Michaels",
+   "COUNTY_LOCATION": "Dorchester / Talbot",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$194 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 164,
+   "STATE": "MD",
+   "DESTINATION": "Cambridge / St. Michaels",
+   "COUNTY_LOCATION": "Dorchester / Talbot",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$139 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 473,
+   "STATE": "MD",
+   "DESTINATION": "Centreville",
+   "COUNTY_LOCATION": "Queen Anne",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 165,
+   "STATE": "MD",
+   "DESTINATION": "Columbia",
+   "COUNTY_LOCATION": "Howard",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 170,
+   "STATE": "MD",
+   "DESTINATION": "Ocean City",
+   "COUNTY_LOCATION": "Worcester",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$141 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 170,
+   "STATE": "MD",
+   "DESTINATION": "Ocean City",
+   "COUNTY_LOCATION": "Worcester",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$325 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 170,
+   "STATE": "MD",
+   "DESTINATION": "Ocean City",
+   "COUNTY_LOCATION": "Worcester",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$141 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 171,
+   "STATE": "ME",
+   "DESTINATION": "Bar Harbor / Rockport",
+   "COUNTY_LOCATION": "Hancock / Knox",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$254 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 171,
+   "STATE": "ME",
+   "DESTINATION": "Bar Harbor / Rockport",
+   "COUNTY_LOCATION": "Hancock / Knox",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$164 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 171,
+   "STATE": "ME",
+   "DESTINATION": "Bar Harbor / Rockport",
+   "COUNTY_LOCATION": "Hancock / Knox",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$326 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 171,
+   "STATE": "ME",
+   "DESTINATION": "Bar Harbor / Rockport",
+   "COUNTY_LOCATION": "Hancock / Knox",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$254 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 172,
+   "STATE": "ME",
+   "DESTINATION": "Kennebunk / Kittery / Sanford",
+   "COUNTY_LOCATION": "York ",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 172,
+   "STATE": "ME",
+   "DESTINATION": "Kennebunk / Kittery / Sanford",
+   "COUNTY_LOCATION": "York ",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 172,
+   "STATE": "ME",
+   "DESTINATION": "Kennebunk / Kittery / Sanford",
+   "COUNTY_LOCATION": "York ",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$206 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 172,
+   "STATE": "ME",
+   "DESTINATION": "Kennebunk / Kittery / Sanford",
+   "COUNTY_LOCATION": "York ",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 173,
+   "STATE": "ME",
+   "DESTINATION": "Portland",
+   "COUNTY_LOCATION": "Cumberland / Sagadahoc",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$198 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 173,
+   "STATE": "ME",
+   "DESTINATION": "Portland",
+   "COUNTY_LOCATION": "Cumberland / Sagadahoc",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 173,
+   "STATE": "ME",
+   "DESTINATION": "Portland",
+   "COUNTY_LOCATION": "Cumberland / Sagadahoc",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$229 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 173,
+   "STATE": "ME",
+   "DESTINATION": "Portland",
+   "COUNTY_LOCATION": "Cumberland / Sagadahoc",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$198 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 175,
+   "STATE": "MI",
+   "DESTINATION": "Ann Arbor",
+   "COUNTY_LOCATION": "Washtenaw",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 178,
+   "STATE": "MI",
+   "DESTINATION": "Detroit",
+   "COUNTY_LOCATION": "Wayne",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$145 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 183,
+   "STATE": "MI",
+   "DESTINATION": "Grand Rapids",
+   "COUNTY_LOCATION": "Kent",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$117 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 184,
+   "STATE": "MI",
+   "DESTINATION": "Holland",
+   "COUNTY_LOCATION": "Ottawa",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 184,
+   "STATE": "MI",
+   "DESTINATION": "Holland",
+   "COUNTY_LOCATION": "Ottawa",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$142 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 184,
+   "STATE": "MI",
+   "DESTINATION": "Holland",
+   "COUNTY_LOCATION": "Ottawa",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 187,
+   "STATE": "MI",
+   "DESTINATION": "Mackinac Island",
+   "COUNTY_LOCATION": "Mackinac",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 187,
+   "STATE": "MI",
+   "DESTINATION": "Mackinac Island",
+   "COUNTY_LOCATION": "Mackinac",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 187,
+   "STATE": "MI",
+   "DESTINATION": "Mackinac Island",
+   "COUNTY_LOCATION": "Mackinac",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$211 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 187,
+   "STATE": "MI",
+   "DESTINATION": "Mackinac Island",
+   "COUNTY_LOCATION": "Mackinac",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 188,
+   "STATE": "MI",
+   "DESTINATION": "Midland",
+   "COUNTY_LOCATION": "Midland",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 190,
+   "STATE": "MI",
+   "DESTINATION": "Muskegon",
+   "COUNTY_LOCATION": "Muskegon",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 190,
+   "STATE": "MI",
+   "DESTINATION": "Muskegon",
+   "COUNTY_LOCATION": "Muskegon",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$144 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 190,
+   "STATE": "MI",
+   "DESTINATION": "Muskegon",
+   "COUNTY_LOCATION": "Muskegon",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 192,
+   "STATE": "MI",
+   "DESTINATION": "Petoskey",
+   "COUNTY_LOCATION": "Emmet",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 192,
+   "STATE": "MI",
+   "DESTINATION": "Petoskey",
+   "COUNTY_LOCATION": "Emmet",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$138 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 192,
+   "STATE": "MI",
+   "DESTINATION": "Petoskey",
+   "COUNTY_LOCATION": "Emmet",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$249 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 192,
+   "STATE": "MI",
+   "DESTINATION": "Petoskey",
+   "COUNTY_LOCATION": "Emmet",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 193,
+   "STATE": "MI",
+   "DESTINATION": "Pontiac / Auburn Hills ",
+   "COUNTY_LOCATION": "Oakland",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$117 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 195,
+   "STATE": "MI",
+   "DESTINATION": "South Haven",
+   "COUNTY_LOCATION": "Van Buren",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 195,
+   "STATE": "MI",
+   "DESTINATION": "South Haven",
+   "COUNTY_LOCATION": "Van Buren",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 195,
+   "STATE": "MI",
+   "DESTINATION": "South Haven",
+   "COUNTY_LOCATION": "Van Buren",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 196,
+   "STATE": "MI",
+   "DESTINATION": "Traverse City",
+   "COUNTY_LOCATION": "Grand Traverse",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 196,
+   "STATE": "MI",
+   "DESTINATION": "Traverse City",
+   "COUNTY_LOCATION": "Grand Traverse",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$235 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 196,
+   "STATE": "MI",
+   "DESTINATION": "Traverse City",
+   "COUNTY_LOCATION": "Grand Traverse",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 199,
+   "STATE": "MN",
+   "DESTINATION": "Duluth",
+   "COUNTY_LOCATION": "St. Louis",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$200 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 199,
+   "STATE": "MN",
+   "DESTINATION": "Duluth",
+   "COUNTY_LOCATION": "St. Louis",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$148 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 199,
+   "STATE": "MN",
+   "DESTINATION": "Duluth",
+   "COUNTY_LOCATION": "St. Louis",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$200 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 201,
+   "STATE": "MN",
+   "DESTINATION": "Minneapolis / St. Paul",
+   "COUNTY_LOCATION": "Hennepin / Ramsey",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$148 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 202,
+   "STATE": "MN",
+   "DESTINATION": "Rochester",
+   "COUNTY_LOCATION": "Olmsted",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 204,
+   "STATE": "MO",
+   "DESTINATION": "Kansas City",
+   "COUNTY_LOCATION": "Jackson / Clay / Cass / Platte",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 207,
+   "STATE": "MO",
+   "DESTINATION": "St. Louis",
+   "COUNTY_LOCATION": "St. Louis / St. Louis City / St. Charles",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 477,
+   "STATE": "MS",
+   "DESTINATION": "Oxford",
+   "COUNTY_LOCATION": "Lafayette",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$119 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 447,
+   "STATE": "MS",
+   "DESTINATION": "Southaven",
+   "COUNTY_LOCATION": "Desoto",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$121 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 211,
+   "STATE": "MS",
+   "DESTINATION": "Starkville ",
+   "COUNTY_LOCATION": "Oktibbeha",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 215,
+   "STATE": "MT",
+   "DESTINATION": "Big Sky / West Yellowstone/Gardiner",
+   "COUNTY_LOCATION": "Gallatin/Park",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$171 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 215,
+   "STATE": "MT",
+   "DESTINATION": "Big Sky / West Yellowstone/Gardiner",
+   "COUNTY_LOCATION": "Gallatin/Park",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$293 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 426,
+   "STATE": "MT",
+   "DESTINATION": "Helena",
+   "COUNTY_LOCATION": "Lewis and Clark",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 496,
+   "STATE": "MT",
+   "DESTINATION": "Kalispell/Whitefish",
+   "COUNTY_LOCATION": "Flathead",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 496,
+   "STATE": "MT",
+   "DESTINATION": "Kalispell/Whitefish",
+   "COUNTY_LOCATION": "Flathead",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$243 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 496,
+   "STATE": "MT",
+   "DESTINATION": "Kalispell/Whitefish",
+   "COUNTY_LOCATION": "Flathead",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 213,
+   "STATE": "MT",
+   "DESTINATION": "Missoula",
+   "COUNTY_LOCATION": "Missoula",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 213,
+   "STATE": "MT",
+   "DESTINATION": "Missoula",
+   "COUNTY_LOCATION": "Missoula",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$194 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 216,
+   "STATE": "NC",
+   "DESTINATION": "Asheville ",
+   "COUNTY_LOCATION": "Buncombe",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$135 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 216,
+   "STATE": "NC",
+   "DESTINATION": "Asheville ",
+   "COUNTY_LOCATION": "Buncombe",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 216,
+   "STATE": "NC",
+   "DESTINATION": "Asheville ",
+   "COUNTY_LOCATION": "Buncombe",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$135 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 217,
+   "STATE": "NC",
+   "DESTINATION": "Atlantic Beach / Morehead City",
+   "COUNTY_LOCATION": "Carteret",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 217,
+   "STATE": "NC",
+   "DESTINATION": "Atlantic Beach / Morehead City",
+   "COUNTY_LOCATION": "Carteret",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$153 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 217,
+   "STATE": "NC",
+   "DESTINATION": "Atlantic Beach / Morehead City",
+   "COUNTY_LOCATION": "Carteret",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 218,
+   "STATE": "NC",
+   "DESTINATION": "Chapel Hill",
+   "COUNTY_LOCATION": "Orange",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 219,
+   "STATE": "NC",
+   "DESTINATION": "Charlotte",
+   "COUNTY_LOCATION": "Mecklenburg",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$129 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 221,
+   "STATE": "NC",
+   "DESTINATION": "Durham",
+   "COUNTY_LOCATION": "Durham",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 464,
+   "STATE": "NC",
+   "DESTINATION": "Fayetteville",
+   "COUNTY_LOCATION": "Cumberland",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$123 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 222,
+   "STATE": "NC",
+   "DESTINATION": "Greensboro",
+   "COUNTY_LOCATION": "Guilford",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 222,
+   "STATE": "NC",
+   "DESTINATION": "Greensboro",
+   "COUNTY_LOCATION": "Guilford",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 224,
+   "STATE": "NC",
+   "DESTINATION": "Kill Devil Hills",
+   "COUNTY_LOCATION": "Dare",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 224,
+   "STATE": "NC",
+   "DESTINATION": "Kill Devil Hills",
+   "COUNTY_LOCATION": "Dare",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$214 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 224,
+   "STATE": "NC",
+   "DESTINATION": "Kill Devil Hills",
+   "COUNTY_LOCATION": "Dare",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$251 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 227,
+   "STATE": "NC",
+   "DESTINATION": "Raleigh",
+   "COUNTY_LOCATION": "Wake",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$125 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 229,
+   "STATE": "NC",
+   "DESTINATION": "Wilmington",
+   "COUNTY_LOCATION": "New Hanover",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 231,
+   "STATE": "NE",
+   "DESTINATION": "Omaha",
+   "COUNTY_LOCATION": "Douglas",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 232,
+   "STATE": "NH",
+   "DESTINATION": "Concord",
+   "COUNTY_LOCATION": "Merrimack",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 233,
+   "STATE": "NH",
+   "DESTINATION": "Conway",
+   "COUNTY_LOCATION": "Caroll",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 233,
+   "STATE": "NH",
+   "DESTINATION": "Conway",
+   "COUNTY_LOCATION": "Caroll",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 233,
+   "STATE": "NH",
+   "DESTINATION": "Conway",
+   "COUNTY_LOCATION": "Caroll",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$164 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 233,
+   "STATE": "NH",
+   "DESTINATION": "Conway",
+   "COUNTY_LOCATION": "Caroll",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 234,
+   "STATE": "NH",
+   "DESTINATION": "Durham",
+   "COUNTY_LOCATION": "Strafford",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$123 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 234,
+   "STATE": "NH",
+   "DESTINATION": "Durham",
+   "COUNTY_LOCATION": "Strafford",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$148 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 234,
+   "STATE": "NH",
+   "DESTINATION": "Durham",
+   "COUNTY_LOCATION": "Strafford",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$123 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 235,
+   "STATE": "NH",
+   "DESTINATION": "Laconia",
+   "COUNTY_LOCATION": "Belknap",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$171 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 235,
+   "STATE": "NH",
+   "DESTINATION": "Laconia",
+   "COUNTY_LOCATION": "Belknap",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$140 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 235,
+   "STATE": "NH",
+   "DESTINATION": "Laconia",
+   "COUNTY_LOCATION": "Belknap",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$171 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 236,
+   "STATE": "NH",
+   "DESTINATION": "Lebanon / Lincoln / West Lebanon",
+   "COUNTY_LOCATION": "Grafton",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$148 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 237,
+   "STATE": "NH",
+   "DESTINATION": "Manchester",
+   "COUNTY_LOCATION": "Hillsborough",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$124 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 237,
+   "STATE": "NH",
+   "DESTINATION": "Manchester",
+   "COUNTY_LOCATION": "Hillsborough",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 237,
+   "STATE": "NH",
+   "DESTINATION": "Manchester",
+   "COUNTY_LOCATION": "Hillsborough",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$124 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 238,
+   "STATE": "NH",
+   "DESTINATION": "Portsmouth",
+   "COUNTY_LOCATION": "Rockingham",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 238,
+   "STATE": "NH",
+   "DESTINATION": "Portsmouth",
+   "COUNTY_LOCATION": "Rockingham",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$125 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 238,
+   "STATE": "NH",
+   "DESTINATION": "Portsmouth",
+   "COUNTY_LOCATION": "Rockingham",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$189 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 238,
+   "STATE": "NH",
+   "DESTINATION": "Portsmouth",
+   "COUNTY_LOCATION": "Rockingham",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 241,
+   "STATE": "NJ",
+   "DESTINATION": "Cherry Hill / Moorestown",
+   "COUNTY_LOCATION": "Camden / Burlington",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$108 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 242,
+   "STATE": "NJ",
+   "DESTINATION": "Eatontown / Freehold",
+   "COUNTY_LOCATION": "Monmouth",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$128 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 242,
+   "STATE": "NJ",
+   "DESTINATION": "Eatontown / Freehold",
+   "COUNTY_LOCATION": "Monmouth",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$164 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 242,
+   "STATE": "NJ",
+   "DESTINATION": "Eatontown / Freehold",
+   "COUNTY_LOCATION": "Monmouth",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$128 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 243,
+   "STATE": "NJ",
+   "DESTINATION": "Edison / Piscataway",
+   "COUNTY_LOCATION": "Middlesex ",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 244,
+   "STATE": "NJ",
+   "DESTINATION": "Flemington",
+   "COUNTY_LOCATION": "Hunterdon",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 246,
+   "STATE": "NJ",
+   "DESTINATION": "Newark",
+   "COUNTY_LOCATION": "Essex / Bergen / Hudson / Passaic",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$147 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 247,
+   "STATE": "NJ",
+   "DESTINATION": "Parsippany",
+   "COUNTY_LOCATION": "Morris",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$161 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 249,
+   "STATE": "NJ",
+   "DESTINATION": "Princeton / Trenton",
+   "COUNTY_LOCATION": "Mercer",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 248,
+   "STATE": "NJ",
+   "DESTINATION": "Somerset",
+   "COUNTY_LOCATION": "Somerset",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$153 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 250,
+   "STATE": "NJ",
+   "DESTINATION": "Springfield / Cranford / New Providence",
+   "COUNTY_LOCATION": "Union",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 251,
+   "STATE": "NJ",
+   "DESTINATION": "Toms River",
+   "COUNTY_LOCATION": "Ocean",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 251,
+   "STATE": "NJ",
+   "DESTINATION": "Toms River",
+   "COUNTY_LOCATION": "Ocean",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$203 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 251,
+   "STATE": "NJ",
+   "DESTINATION": "Toms River",
+   "COUNTY_LOCATION": "Ocean",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 252,
+   "STATE": "NM",
+   "DESTINATION": "Albuquerque",
+   "COUNTY_LOCATION": "Bernalillo",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$141 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 252,
+   "STATE": "NM",
+   "DESTINATION": "Albuquerque",
+   "COUNTY_LOCATION": "Bernalillo",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 252,
+   "STATE": "NM",
+   "DESTINATION": "Albuquerque",
+   "COUNTY_LOCATION": "Bernalillo",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$141 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 479,
+   "STATE": "NM",
+   "DESTINATION": "Carlsbad",
+   "COUNTY_LOCATION": "Eddy",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$212 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 254,
+   "STATE": "NM",
+   "DESTINATION": "Santa Fe",
+   "COUNTY_LOCATION": "Santa Fe",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$162 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 254,
+   "STATE": "NM",
+   "DESTINATION": "Santa Fe",
+   "COUNTY_LOCATION": "Santa Fe",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 254,
+   "STATE": "NM",
+   "DESTINATION": "Santa Fe",
+   "COUNTY_LOCATION": "Santa Fe",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$162 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 423,
+   "STATE": "NM",
+   "DESTINATION": "Taos",
+   "COUNTY_LOCATION": "Taos",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$135 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 255,
+   "STATE": "NV",
+   "DESTINATION": "Incline Village / Reno / Sparks",
+   "COUNTY_LOCATION": "Washoe",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$125 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 255,
+   "STATE": "NV",
+   "DESTINATION": "Incline Village / Reno / Sparks",
+   "COUNTY_LOCATION": "Washoe",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 255,
+   "STATE": "NV",
+   "DESTINATION": "Incline Village / Reno / Sparks",
+   "COUNTY_LOCATION": "Washoe",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$125 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 256,
+   "STATE": "NV",
+   "DESTINATION": "Las Vegas",
+   "COUNTY_LOCATION": "Clark",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 256,
+   "STATE": "NV",
+   "DESTINATION": "Las Vegas",
+   "COUNTY_LOCATION": "Clark",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 256,
+   "STATE": "NV",
+   "DESTINATION": "Las Vegas",
+   "COUNTY_LOCATION": "Clark",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 258,
+   "STATE": "NY",
+   "DESTINATION": "Albany",
+   "COUNTY_LOCATION": "Albany",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$114 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 269,
+   "STATE": "NY",
+   "DESTINATION": "Binghamton",
+   "COUNTY_LOCATION": "Broome",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$113 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 260,
+   "STATE": "NY",
+   "DESTINATION": "Buffalo",
+   "COUNTY_LOCATION": "Erie",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$117 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 261,
+   "STATE": "NY",
+   "DESTINATION": "Floral Park / Garden City / Great Neck",
+   "COUNTY_LOCATION": "Nassau",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$151 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 262,
+   "STATE": "NY",
+   "DESTINATION": "Glens Falls",
+   "COUNTY_LOCATION": "Warren",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$119 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 262,
+   "STATE": "NY",
+   "DESTINATION": "Glens Falls",
+   "COUNTY_LOCATION": "Warren",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$198 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 262,
+   "STATE": "NY",
+   "DESTINATION": "Glens Falls",
+   "COUNTY_LOCATION": "Warren",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$119 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 277,
+   "STATE": "NY",
+   "DESTINATION": "Ithaca",
+   "COUNTY_LOCATION": "Tompkins",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$139 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 264,
+   "STATE": "NY",
+   "DESTINATION": "Kingston",
+   "COUNTY_LOCATION": "Ulster",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$141 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 265,
+   "STATE": "NY",
+   "DESTINATION": "Lake Placid",
+   "COUNTY_LOCATION": "Essex",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 265,
+   "STATE": "NY",
+   "DESTINATION": "Lake Placid",
+   "COUNTY_LOCATION": "Essex",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$140 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 265,
+   "STATE": "NY",
+   "DESTINATION": "Lake Placid",
+   "COUNTY_LOCATION": "Essex",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$220 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 265,
+   "STATE": "NY",
+   "DESTINATION": "Lake Placid",
+   "COUNTY_LOCATION": "Essex",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 266,
+   "STATE": "NY",
+   "DESTINATION": "New York City",
+   "COUNTY_LOCATION": "Bronx / Kings / New York / Queens / Richmond",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$315 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 266,
+   "STATE": "NY",
+   "DESTINATION": "New York City",
+   "COUNTY_LOCATION": "Bronx / Kings / New York / Queens / Richmond",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 266,
+   "STATE": "NY",
+   "DESTINATION": "New York City",
+   "COUNTY_LOCATION": "Bronx / Kings / New York / Queens / Richmond",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$258 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 266,
+   "STATE": "NY",
+   "DESTINATION": "New York City",
+   "COUNTY_LOCATION": "Bronx / Kings / New York / Queens / Richmond",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$225 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 266,
+   "STATE": "NY",
+   "DESTINATION": "New York City",
+   "COUNTY_LOCATION": "Bronx / Kings / New York / Queens / Richmond",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$315 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 267,
+   "STATE": "NY",
+   "DESTINATION": "Niagara Falls",
+   "COUNTY_LOCATION": "Niagara",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 267,
+   "STATE": "NY",
+   "DESTINATION": "Niagara Falls",
+   "COUNTY_LOCATION": "Niagara",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$141 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 267,
+   "STATE": "NY",
+   "DESTINATION": "Niagara Falls",
+   "COUNTY_LOCATION": "Niagara",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 268,
+   "STATE": "NY",
+   "DESTINATION": "Nyack / Palisades",
+   "COUNTY_LOCATION": "Rockland",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 270,
+   "STATE": "NY",
+   "DESTINATION": "Poughkeepsie",
+   "COUNTY_LOCATION": "Dutchess",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$113 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 271,
+   "STATE": "NY",
+   "DESTINATION": "Riverhead / Ronkonkoma / Melville",
+   "COUNTY_LOCATION": "Suffolk",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 272,
+   "STATE": "NY",
+   "DESTINATION": "Rochester",
+   "COUNTY_LOCATION": "Monroe",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$119 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 273,
+   "STATE": "NY",
+   "DESTINATION": "Saratoga Springs / Schenectady",
+   "COUNTY_LOCATION": "Saratoga / Schenectady",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$121 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 273,
+   "STATE": "NY",
+   "DESTINATION": "Saratoga Springs / Schenectady",
+   "COUNTY_LOCATION": "Saratoga / Schenectady",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$204 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 273,
+   "STATE": "NY",
+   "DESTINATION": "Saratoga Springs / Schenectady",
+   "COUNTY_LOCATION": "Saratoga / Schenectady",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$121 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 274,
+   "STATE": "NY",
+   "DESTINATION": "Syracuse / Oswego",
+   "COUNTY_LOCATION": "Onondaga / Oswego",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 275,
+   "STATE": "NY",
+   "DESTINATION": "Tarrytown / White Plains / New Rochelle",
+   "COUNTY_LOCATION": "Westchester",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$151 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 276,
+   "STATE": "NY",
+   "DESTINATION": "Troy ",
+   "COUNTY_LOCATION": "Rensselaer",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 278,
+   "STATE": "NY",
+   "DESTINATION": "West Point",
+   "COUNTY_LOCATION": "Orange",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$121 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 281,
+   "STATE": "OH",
+   "DESTINATION": "Canton",
+   "COUNTY_LOCATION": "Stark",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 281,
+   "STATE": "OH",
+   "DESTINATION": "Canton",
+   "COUNTY_LOCATION": "Stark",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 281,
+   "STATE": "OH",
+   "DESTINATION": "Canton",
+   "COUNTY_LOCATION": "Stark",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 282,
+   "STATE": "OH",
+   "DESTINATION": "Cincinnati",
+   "COUNTY_LOCATION": "Hamilton / Clermont",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 283,
+   "STATE": "OH",
+   "DESTINATION": "Cleveland",
+   "COUNTY_LOCATION": "Cuyahoga",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$150 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 284,
+   "STATE": "OH",
+   "DESTINATION": "Columbus",
+   "COUNTY_LOCATION": "Franklin",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 285,
+   "STATE": "OH",
+   "DESTINATION": "Dayton / Fairborn",
+   "COUNTY_LOCATION": "Greene / Montgomery",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 287,
+   "STATE": "OH",
+   "DESTINATION": "Hamilton",
+   "COUNTY_LOCATION": "Butler / Warren",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 289,
+   "STATE": "OH",
+   "DESTINATION": "Mentor",
+   "COUNTY_LOCATION": "Lake",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$110 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 280,
+   "STATE": "OH",
+   "DESTINATION": "Sandusky",
+   "COUNTY_LOCATION": "Erie",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 280,
+   "STATE": "OH",
+   "DESTINATION": "Sandusky",
+   "COUNTY_LOCATION": "Erie",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 280,
+   "STATE": "OH",
+   "DESTINATION": "Sandusky",
+   "COUNTY_LOCATION": "Erie",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$115 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 295,
+   "STATE": "OK",
+   "DESTINATION": "Oklahoma City",
+   "COUNTY_LOCATION": "Oklahoma",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$110 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 298,
+   "STATE": "OR",
+   "DESTINATION": "Beaverton",
+   "COUNTY_LOCATION": "Washington",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$136 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 299,
+   "STATE": "OR",
+   "DESTINATION": "Bend",
+   "COUNTY_LOCATION": "Deschutes",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 299,
+   "STATE": "OR",
+   "DESTINATION": "Bend",
+   "COUNTY_LOCATION": "Deschutes",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$191 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 299,
+   "STATE": "OR",
+   "DESTINATION": "Bend",
+   "COUNTY_LOCATION": "Deschutes",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 300,
+   "STATE": "OR",
+   "DESTINATION": "Clackamas",
+   "COUNTY_LOCATION": "Clackamas",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 300,
+   "STATE": "OR",
+   "DESTINATION": "Clackamas",
+   "COUNTY_LOCATION": "Clackamas",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$148 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 300,
+   "STATE": "OR",
+   "DESTINATION": "Clackamas",
+   "COUNTY_LOCATION": "Clackamas",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 302,
+   "STATE": "OR",
+   "DESTINATION": "Eugene / Florence",
+   "COUNTY_LOCATION": "Lane",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 302,
+   "STATE": "OR",
+   "DESTINATION": "Eugene / Florence",
+   "COUNTY_LOCATION": "Lane",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$206 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 302,
+   "STATE": "OR",
+   "DESTINATION": "Eugene / Florence",
+   "COUNTY_LOCATION": "Lane",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 304,
+   "STATE": "OR",
+   "DESTINATION": "Lincoln City",
+   "COUNTY_LOCATION": "Lincoln",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$131 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 304,
+   "STATE": "OR",
+   "DESTINATION": "Lincoln City",
+   "COUNTY_LOCATION": "Lincoln",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$202 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 304,
+   "STATE": "OR",
+   "DESTINATION": "Lincoln City",
+   "COUNTY_LOCATION": "Lincoln",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$131 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 305,
+   "STATE": "OR",
+   "DESTINATION": "Portland",
+   "COUNTY_LOCATION": "Multnomah",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$182 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 305,
+   "STATE": "OR",
+   "DESTINATION": "Portland",
+   "COUNTY_LOCATION": "Multnomah",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 305,
+   "STATE": "OR",
+   "DESTINATION": "Portland",
+   "COUNTY_LOCATION": "Multnomah",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$182 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 306,
+   "STATE": "OR",
+   "DESTINATION": "Seaside",
+   "COUNTY_LOCATION": "Clatsop",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 306,
+   "STATE": "OR",
+   "DESTINATION": "Seaside",
+   "COUNTY_LOCATION": "Clatsop",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$135 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 306,
+   "STATE": "OR",
+   "DESTINATION": "Seaside",
+   "COUNTY_LOCATION": "Clatsop",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$222 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 306,
+   "STATE": "OR",
+   "DESTINATION": "Seaside",
+   "COUNTY_LOCATION": "Clatsop",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 307,
+   "STATE": "PA",
+   "DESTINATION": "Allentown / Easton / Bethlehem",
+   "COUNTY_LOCATION": "Lehigh / Northampton",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 313,
+   "STATE": "PA",
+   "DESTINATION": "Bucks",
+   "COUNTY_LOCATION": "Bucks",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$119 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 309,
+   "STATE": "PA",
+   "DESTINATION": "Chester / Radnor / Essington",
+   "COUNTY_LOCATION": "Delaware",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$124 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 311,
+   "STATE": "PA",
+   "DESTINATION": "Gettysburg",
+   "COUNTY_LOCATION": "Adams",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$110 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 312,
+   "STATE": "PA",
+   "DESTINATION": "Harrisburg",
+   "COUNTY_LOCATION": "Dauphin County excluding Hershey",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$121 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 489,
+   "STATE": "PA",
+   "DESTINATION": "Hershey",
+   "COUNTY_LOCATION": "Hershey",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 489,
+   "STATE": "PA",
+   "DESTINATION": "Hershey",
+   "COUNTY_LOCATION": "Hershey",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 489,
+   "STATE": "PA",
+   "DESTINATION": "Hershey",
+   "COUNTY_LOCATION": "Hershey",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$203 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 489,
+   "STATE": "PA",
+   "DESTINATION": "Hershey",
+   "COUNTY_LOCATION": "Hershey",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$156 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 314,
+   "STATE": "PA",
+   "DESTINATION": "Lancaster",
+   "COUNTY_LOCATION": "Lancaster",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$121 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 315,
+   "STATE": "PA",
+   "DESTINATION": "Malvern / Frazer / Berwyn",
+   "COUNTY_LOCATION": "Chester",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$129 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 435,
+   "STATE": "PA",
+   "DESTINATION": "Montgomery",
+   "COUNTY_LOCATION": "Montgomery",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$126 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 317,
+   "STATE": "PA",
+   "DESTINATION": "Philadelphia",
+   "COUNTY_LOCATION": "Philadelphia",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$211 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 317,
+   "STATE": "PA",
+   "DESTINATION": "Philadelphia",
+   "COUNTY_LOCATION": "Philadelphia",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$157 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 317,
+   "STATE": "PA",
+   "DESTINATION": "Philadelphia",
+   "COUNTY_LOCATION": "Philadelphia",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$210 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 317,
+   "STATE": "PA",
+   "DESTINATION": "Philadelphia",
+   "COUNTY_LOCATION": "Philadelphia",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 317,
+   "STATE": "PA",
+   "DESTINATION": "Philadelphia",
+   "COUNTY_LOCATION": "Philadelphia",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$211 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 318,
+   "STATE": "PA",
+   "DESTINATION": "Pittsburgh",
+   "COUNTY_LOCATION": "Allegheny",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$136 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 319,
+   "STATE": "PA",
+   "DESTINATION": "Reading",
+   "COUNTY_LOCATION": "Berks",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$121 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 321,
+   "STATE": "PA",
+   "DESTINATION": "State College ",
+   "COUNTY_LOCATION": "Centre",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$114 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 322,
+   "STATE": "RI",
+   "DESTINATION": "East Greenwich / Warwick",
+   "COUNTY_LOCATION": "Kent",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$108 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 323,
+   "STATE": "RI",
+   "DESTINATION": "Jamestown / Middletown / Newport",
+   "COUNTY_LOCATION": "Newport ",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$231 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 323,
+   "STATE": "RI",
+   "DESTINATION": "Jamestown / Middletown / Newport",
+   "COUNTY_LOCATION": "Newport ",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$143 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 323,
+   "STATE": "RI",
+   "DESTINATION": "Jamestown / Middletown / Newport",
+   "COUNTY_LOCATION": "Newport ",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$284 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 323,
+   "STATE": "RI",
+   "DESTINATION": "Jamestown / Middletown / Newport",
+   "COUNTY_LOCATION": "Newport ",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$231 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 325,
+   "STATE": "RI",
+   "DESTINATION": "Providence / Bristol",
+   "COUNTY_LOCATION": "Providence / Bristol",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$155 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 326,
+   "STATE": "SC",
+   "DESTINATION": "Charleston",
+   "COUNTY_LOCATION": "Charleston / Berkeley / Dorchester",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$249 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 326,
+   "STATE": "SC",
+   "DESTINATION": "Charleston",
+   "COUNTY_LOCATION": "Charleston / Berkeley / Dorchester",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$303 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 326,
+   "STATE": "SC",
+   "DESTINATION": "Charleston",
+   "COUNTY_LOCATION": "Charleston / Berkeley / Dorchester",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$249 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 327,
+   "STATE": "SC",
+   "DESTINATION": "Columbia",
+   "COUNTY_LOCATION": "Richland / Lexington",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$112 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 329,
+   "STATE": "SC",
+   "DESTINATION": "Hilton Head",
+   "COUNTY_LOCATION": "Beaufort",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$163 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 329,
+   "STATE": "SC",
+   "DESTINATION": "Hilton Head",
+   "COUNTY_LOCATION": "Beaufort",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 329,
+   "STATE": "SC",
+   "DESTINATION": "Hilton Head",
+   "COUNTY_LOCATION": "Beaufort",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$196 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 329,
+   "STATE": "SC",
+   "DESTINATION": "Hilton Head",
+   "COUNTY_LOCATION": "Beaufort",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$235 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 329,
+   "STATE": "SC",
+   "DESTINATION": "Hilton Head",
+   "COUNTY_LOCATION": "Beaufort",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$163 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 330,
+   "STATE": "SC",
+   "DESTINATION": "Myrtle Beach",
+   "COUNTY_LOCATION": "Horry",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 330,
+   "STATE": "SC",
+   "DESTINATION": "Myrtle Beach",
+   "COUNTY_LOCATION": "Horry",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 330,
+   "STATE": "SC",
+   "DESTINATION": "Myrtle Beach",
+   "COUNTY_LOCATION": "Horry",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$203 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 330,
+   "STATE": "SC",
+   "DESTINATION": "Myrtle Beach",
+   "COUNTY_LOCATION": "Horry",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 334,
+   "STATE": "SD",
+   "DESTINATION": "Deadwood / Spearfish ",
+   "COUNTY_LOCATION": "Lawrence",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 334,
+   "STATE": "SD",
+   "DESTINATION": "Deadwood / Spearfish ",
+   "COUNTY_LOCATION": "Lawrence",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$157 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 332,
+   "STATE": "SD",
+   "DESTINATION": "Hot Springs",
+   "COUNTY_LOCATION": "Fall River / Custer",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 332,
+   "STATE": "SD",
+   "DESTINATION": "Hot Springs",
+   "COUNTY_LOCATION": "Fall River / Custer",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 333,
+   "STATE": "SD",
+   "DESTINATION": "Rapid City",
+   "COUNTY_LOCATION": "Pennington",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 333,
+   "STATE": "SD",
+   "DESTINATION": "Rapid City",
+   "COUNTY_LOCATION": "Pennington",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$169 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 333,
+   "STATE": "SD",
+   "DESTINATION": "Rapid City",
+   "COUNTY_LOCATION": "Pennington",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 335,
+   "STATE": "TN",
+   "DESTINATION": "Brentwood / Franklin",
+   "COUNTY_LOCATION": "Williamson",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$125 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 336,
+   "STATE": "TN",
+   "DESTINATION": "Chattanooga ",
+   "COUNTY_LOCATION": "Hamilton",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$117 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 338,
+   "STATE": "TN",
+   "DESTINATION": "Knoxville",
+   "COUNTY_LOCATION": "Knox",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$113 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 339,
+   "STATE": "TN",
+   "DESTINATION": "Memphis",
+   "COUNTY_LOCATION": "Shelby",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$123 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 340,
+   "STATE": "TN",
+   "DESTINATION": "Nashville",
+   "COUNTY_LOCATION": "Davidson",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$237 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 340,
+   "STATE": "TN",
+   "DESTINATION": "Nashville",
+   "COUNTY_LOCATION": "Davidson",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Jan",
+   "LODGING_RATE": "$187 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 340,
+   "STATE": "TN",
+   "DESTINATION": "Nashville",
+   "COUNTY_LOCATION": "Davidson",
+   "SEASON_BEGIN": "1-Feb",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$233 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 340,
+   "STATE": "TN",
+   "DESTINATION": "Nashville",
+   "COUNTY_LOCATION": "Davidson",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$210 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 340,
+   "STATE": "TN",
+   "DESTINATION": "Nashville",
+   "COUNTY_LOCATION": "Davidson",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$237 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 342,
+   "STATE": "TX",
+   "DESTINATION": "Arlington / Fort Worth / Grapevine",
+   "COUNTY_LOCATION": "Tarrant County / City of Grapevine",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$175 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 343,
+   "STATE": "TX",
+   "DESTINATION": "Austin",
+   "COUNTY_LOCATION": "Travis",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$184 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 343,
+   "STATE": "TX",
+   "DESTINATION": "Austin",
+   "COUNTY_LOCATION": "Travis",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$170 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 343,
+   "STATE": "TX",
+   "DESTINATION": "Austin",
+   "COUNTY_LOCATION": "Travis",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$184 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 486,
+   "STATE": "TX",
+   "DESTINATION": "Big Spring",
+   "COUNTY_LOCATION": "Howard",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$136 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 346,
+   "STATE": "TX",
+   "DESTINATION": "Dallas",
+   "COUNTY_LOCATION": "Dallas ",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$164 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 346,
+   "STATE": "TX",
+   "DESTINATION": "Dallas",
+   "COUNTY_LOCATION": "Dallas ",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$182 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 346,
+   "STATE": "TX",
+   "DESTINATION": "Dallas",
+   "COUNTY_LOCATION": "Dallas ",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$164 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 348,
+   "STATE": "TX",
+   "DESTINATION": "Galveston",
+   "COUNTY_LOCATION": "Galveston",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 348,
+   "STATE": "TX",
+   "DESTINATION": "Galveston",
+   "COUNTY_LOCATION": "Galveston",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$142 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 348,
+   "STATE": "TX",
+   "DESTINATION": "Galveston",
+   "COUNTY_LOCATION": "Galveston",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 350,
+   "STATE": "TX",
+   "DESTINATION": "Houston",
+   "COUNTY_LOCATION": "Montgomery / Fort Bend / Harris",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 471,
+   "STATE": "TX",
+   "DESTINATION": "Midland / Odessa",
+   "COUNTY_LOCATION": "Midland / Andrews / Ector / Martin",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$183 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 492,
+   "STATE": "TX",
+   "DESTINATION": "Pecos",
+   "COUNTY_LOCATION": "Reeves",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 354,
+   "STATE": "TX",
+   "DESTINATION": "Plano",
+   "COUNTY_LOCATION": "Collin",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 356,
+   "STATE": "TX",
+   "DESTINATION": "San Antonio",
+   "COUNTY_LOCATION": "Bexar",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$143 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 357,
+   "STATE": "TX",
+   "DESTINATION": "South Padre Island",
+   "COUNTY_LOCATION": "Cameron",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$108 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 357,
+   "STATE": "TX",
+   "DESTINATION": "South Padre Island",
+   "COUNTY_LOCATION": "Cameron",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$130 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 357,
+   "STATE": "TX",
+   "DESTINATION": "South Padre Island",
+   "COUNTY_LOCATION": "Cameron",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$108 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 358,
+   "STATE": "TX",
+   "DESTINATION": "Waco",
+   "COUNTY_LOCATION": "McLennan",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 358,
+   "STATE": "TX",
+   "DESTINATION": "Waco",
+   "COUNTY_LOCATION": "McLennan",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$123 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 358,
+   "STATE": "TX",
+   "DESTINATION": "Waco",
+   "COUNTY_LOCATION": "McLennan",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 474,
+   "STATE": "UT",
+   "DESTINATION": "Moab",
+   "COUNTY_LOCATION": "Grand",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$210 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 474,
+   "STATE": "UT",
+   "DESTINATION": "Moab",
+   "COUNTY_LOCATION": "Grand",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 474,
+   "STATE": "UT",
+   "DESTINATION": "Moab",
+   "COUNTY_LOCATION": "Grand",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$210 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 360,
+   "STATE": "UT",
+   "DESTINATION": "Park City",
+   "COUNTY_LOCATION": "Summit",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$204 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 360,
+   "STATE": "UT",
+   "DESTINATION": "Park City",
+   "COUNTY_LOCATION": "Summit",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$425 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 360,
+   "STATE": "UT",
+   "DESTINATION": "Park City",
+   "COUNTY_LOCATION": "Summit",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$204 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 361,
+   "STATE": "UT",
+   "DESTINATION": "Provo",
+   "COUNTY_LOCATION": "Utah",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 362,
+   "STATE": "UT",
+   "DESTINATION": "Salt Lake City",
+   "COUNTY_LOCATION": "Salt Lake / Tooele",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$139 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 362,
+   "STATE": "UT",
+   "DESTINATION": "Salt Lake City",
+   "COUNTY_LOCATION": "Salt Lake / Tooele",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 362,
+   "STATE": "UT",
+   "DESTINATION": "Salt Lake City",
+   "COUNTY_LOCATION": "Salt Lake / Tooele",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$139 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 459,
+   "STATE": "VA",
+   "DESTINATION": "Blacksburg",
+   "COUNTY_LOCATION": "Montgomery",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 459,
+   "STATE": "VA",
+   "DESTINATION": "Blacksburg",
+   "COUNTY_LOCATION": "Montgomery",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 459,
+   "STATE": "VA",
+   "DESTINATION": "Blacksburg",
+   "COUNTY_LOCATION": "Montgomery",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$134 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 363,
+   "STATE": "VA",
+   "DESTINATION": "Charlottesville",
+   "COUNTY_LOCATION": "City of Charlottesville / Albemarle",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$133 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 428,
+   "STATE": "VA",
+   "DESTINATION": "Loudoun",
+   "COUNTY_LOCATION": "Loudoun",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 365,
+   "STATE": "VA",
+   "DESTINATION": "Lynchburg",
+   "COUNTY_LOCATION": "Campbell / Lynchburg City",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$109 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 368,
+   "STATE": "VA",
+   "DESTINATION": "Richmond",
+   "COUNTY_LOCATION": "City of Richmond",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$149 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 369,
+   "STATE": "VA",
+   "DESTINATION": "Roanoke",
+   "COUNTY_LOCATION": "City limits of Roanoke",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$122 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 371,
+   "STATE": "VA",
+   "DESTINATION": "Virginia Beach",
+   "COUNTY_LOCATION": "City of Virginia Beach",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 371,
+   "STATE": "VA",
+   "DESTINATION": "Virginia Beach",
+   "COUNTY_LOCATION": "City of Virginia Beach",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$222 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 371,
+   "STATE": "VA",
+   "DESTINATION": "Virginia Beach",
+   "COUNTY_LOCATION": "City of Virginia Beach",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$120 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 372,
+   "STATE": "VA",
+   "DESTINATION": "Wallops Island",
+   "COUNTY_LOCATION": "Accomack",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$129 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 372,
+   "STATE": "VA",
+   "DESTINATION": "Wallops Island",
+   "COUNTY_LOCATION": "Accomack",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$245 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 372,
+   "STATE": "VA",
+   "DESTINATION": "Wallops Island",
+   "COUNTY_LOCATION": "Accomack",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$129 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 374,
+   "STATE": "VA",
+   "DESTINATION": "Williamsburg / York",
+   "COUNTY_LOCATION": "James City / York Counties / City of Williamsburg",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Dec",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 374,
+   "STATE": "VA",
+   "DESTINATION": "Williamsburg / York",
+   "COUNTY_LOCATION": "James City / York Counties / City of Williamsburg",
+   "SEASON_BEGIN": "1-Jan",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 374,
+   "STATE": "VA",
+   "DESTINATION": "Williamsburg / York",
+   "COUNTY_LOCATION": "James City / York Counties / City of Williamsburg",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$137 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 374,
+   "STATE": "VA",
+   "DESTINATION": "Williamsburg / York",
+   "COUNTY_LOCATION": "James City / York Counties / City of Williamsburg",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 377,
+   "STATE": "VT",
+   "DESTINATION": "Burlington",
+   "COUNTY_LOCATION": "Chittenden",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$187 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 377,
+   "STATE": "VT",
+   "DESTINATION": "Burlington",
+   "COUNTY_LOCATION": "Chittenden",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$125 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 377,
+   "STATE": "VT",
+   "DESTINATION": "Burlington",
+   "COUNTY_LOCATION": "Chittenden",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$187 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 378,
+   "STATE": "VT",
+   "DESTINATION": "Manchester",
+   "COUNTY_LOCATION": "Bennington",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$225 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 378,
+   "STATE": "VT",
+   "DESTINATION": "Manchester",
+   "COUNTY_LOCATION": "Bennington",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$172 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 378,
+   "STATE": "VT",
+   "DESTINATION": "Manchester",
+   "COUNTY_LOCATION": "Bennington",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$225 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 379,
+   "STATE": "VT",
+   "DESTINATION": "Montpelier",
+   "COUNTY_LOCATION": "Washington",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$214 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 379,
+   "STATE": "VT",
+   "DESTINATION": "Montpelier",
+   "COUNTY_LOCATION": "Washington",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$162 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 379,
+   "STATE": "VT",
+   "DESTINATION": "Montpelier",
+   "COUNTY_LOCATION": "Washington",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$214 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 380,
+   "STATE": "VT",
+   "DESTINATION": "Stowe ",
+   "COUNTY_LOCATION": "Lamoille",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Nov",
+   "LODGING_RATE": "$176 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 380,
+   "STATE": "VT",
+   "DESTINATION": "Stowe ",
+   "COUNTY_LOCATION": "Lamoille",
+   "SEASON_BEGIN": "1-Dec",
+   "SEASON_END": "28-Feb",
+   "LODGING_RATE": "$167 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 380,
+   "STATE": "VT",
+   "DESTINATION": "Stowe ",
+   "COUNTY_LOCATION": "Lamoille",
+   "SEASON_BEGIN": "1-Mar",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$176 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 381,
+   "STATE": "VT",
+   "DESTINATION": "White River Junction",
+   "COUNTY_LOCATION": "Windsor",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$138 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 381,
+   "STATE": "VT",
+   "DESTINATION": "White River Junction",
+   "COUNTY_LOCATION": "Windsor",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 381,
+   "STATE": "VT",
+   "DESTINATION": "White River Junction",
+   "COUNTY_LOCATION": "Windsor",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$138 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 384,
+   "STATE": "WA",
+   "DESTINATION": "Everett / Lynnwood",
+   "COUNTY_LOCATION": "Snohomish",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 384,
+   "STATE": "WA",
+   "DESTINATION": "Everett / Lynnwood",
+   "COUNTY_LOCATION": "Snohomish",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$139 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 384,
+   "STATE": "WA",
+   "DESTINATION": "Everett / Lynnwood",
+   "COUNTY_LOCATION": "Snohomish",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$116 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 385,
+   "STATE": "WA",
+   "DESTINATION": "Ocean Shores",
+   "COUNTY_LOCATION": "Grays Harbor",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 385,
+   "STATE": "WA",
+   "DESTINATION": "Ocean Shores",
+   "COUNTY_LOCATION": "Grays Harbor",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$146 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 385,
+   "STATE": "WA",
+   "DESTINATION": "Ocean Shores",
+   "COUNTY_LOCATION": "Grays Harbor",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$111 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 386,
+   "STATE": "WA",
+   "DESTINATION": "Olympia / Tumwater",
+   "COUNTY_LOCATION": "Thurston",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 386,
+   "STATE": "WA",
+   "DESTINATION": "Olympia / Tumwater",
+   "COUNTY_LOCATION": "Thurston",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$153 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 386,
+   "STATE": "WA",
+   "DESTINATION": "Olympia / Tumwater",
+   "COUNTY_LOCATION": "Thurston",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 387,
+   "STATE": "WA",
+   "DESTINATION": "Port Angeles / Port Townsend",
+   "COUNTY_LOCATION": "Clallam / Jefferson",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "30-Jun",
+   "LODGING_RATE": "$129 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 387,
+   "STATE": "WA",
+   "DESTINATION": "Port Angeles / Port Townsend",
+   "COUNTY_LOCATION": "Clallam / Jefferson",
+   "SEASON_BEGIN": "1-Jul",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$219 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 387,
+   "STATE": "WA",
+   "DESTINATION": "Port Angeles / Port Townsend",
+   "COUNTY_LOCATION": "Clallam / Jefferson",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$129 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 475,
+   "STATE": "WA",
+   "DESTINATION": "Richland / Pasco",
+   "COUNTY_LOCATION": "Benton / Franklin",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$118 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 389,
+   "STATE": "WA",
+   "DESTINATION": "Seattle",
+   "COUNTY_LOCATION": "King",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$232 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 389,
+   "STATE": "WA",
+   "DESTINATION": "Seattle",
+   "COUNTY_LOCATION": "King",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "30-Apr",
+   "LODGING_RATE": "$176 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 389,
+   "STATE": "WA",
+   "DESTINATION": "Seattle",
+   "COUNTY_LOCATION": "King",
+   "SEASON_BEGIN": "1-May",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$232 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 390,
+   "STATE": "WA",
+   "DESTINATION": "Spokane",
+   "COUNTY_LOCATION": "Spokane",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$127 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 391,
+   "STATE": "WA",
+   "DESTINATION": "Tacoma",
+   "COUNTY_LOCATION": "Pierce",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 392,
+   "STATE": "WA",
+   "DESTINATION": "Vancouver",
+   "COUNTY_LOCATION": "Clark / Cowlitz / Skamania",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$182 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 392,
+   "STATE": "WA",
+   "DESTINATION": "Vancouver",
+   "COUNTY_LOCATION": "Clark / Cowlitz / Skamania",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$152 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 392,
+   "STATE": "WA",
+   "DESTINATION": "Vancouver",
+   "COUNTY_LOCATION": "Clark / Cowlitz / Skamania",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$182 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 396,
+   "STATE": "WI",
+   "DESTINATION": "Madison",
+   "COUNTY_LOCATION": "Dane",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$131 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 396,
+   "STATE": "WI",
+   "DESTINATION": "Madison",
+   "COUNTY_LOCATION": "Dane",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-Mar",
+   "LODGING_RATE": "$109 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 396,
+   "STATE": "WI",
+   "DESTINATION": "Madison",
+   "COUNTY_LOCATION": "Dane",
+   "SEASON_BEGIN": "1-Apr",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$131 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 397,
+   "STATE": "WI",
+   "DESTINATION": "Milwaukee",
+   "COUNTY_LOCATION": "Milwaukee",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$129 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 397,
+   "STATE": "WI",
+   "DESTINATION": "Milwaukee",
+   "COUNTY_LOCATION": "Milwaukee",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Jul",
+   "LODGING_RATE": "$155 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 397,
+   "STATE": "WI",
+   "DESTINATION": "Milwaukee",
+   "COUNTY_LOCATION": "Milwaukee",
+   "SEASON_BEGIN": "1-Aug",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$129 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 400,
+   "STATE": "WI",
+   "DESTINATION": "Sturgeon Bay",
+   "COUNTY_LOCATION": "Door",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-Oct",
+   "LODGING_RATE": "$128 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 400,
+   "STATE": "WI",
+   "DESTINATION": "Sturgeon Bay",
+   "COUNTY_LOCATION": "Door",
+   "SEASON_BEGIN": "1-Nov",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 400,
+   "STATE": "WI",
+   "DESTINATION": "Sturgeon Bay",
+   "COUNTY_LOCATION": "Door",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$128 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 401,
+   "STATE": "WI",
+   "DESTINATION": "Wisconsin Dells",
+   "COUNTY_LOCATION": "Columbia",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 401,
+   "STATE": "WI",
+   "DESTINATION": "Wisconsin Dells",
+   "COUNTY_LOCATION": "Columbia",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "31-Aug",
+   "LODGING_RATE": "$132 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 401,
+   "STATE": "WI",
+   "DESTINATION": "Wisconsin Dells",
+   "COUNTY_LOCATION": "Columbia",
+   "SEASON_BEGIN": "1-Sep",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$107 ",
+   "MEALS_RATE": "$59 "
+ },
+ {
+   "ID": 406,
+   "STATE": "WV",
+   "DESTINATION": "Charles Town",
+   "COUNTY_LOCATION": "Jefferson",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$112 ",
+   "MEALS_RATE": "$74 "
+ },
+ {
+   "ID": 403,
+   "STATE": "WV",
+   "DESTINATION": "Charleston",
+   "COUNTY_LOCATION": "Kanawha",
+   "SEASON_BEGIN": "",
+   "SEASON_END": "",
+   "LODGING_RATE": "$113 ",
+   "MEALS_RATE": "$64 "
+ },
+ {
+   "ID": 408,
+   "STATE": "WY",
+   "DESTINATION": "Cody",
+   "COUNTY_LOCATION": "Park",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$162 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 408,
+   "STATE": "WY",
+   "DESTINATION": "Cody",
+   "COUNTY_LOCATION": "Park",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$282 ",
+   "MEALS_RATE": "$69 "
+ },
+ {
+   "ID": 409,
+   "STATE": "WY",
+   "DESTINATION": "Jackson / Pinedale",
+   "COUNTY_LOCATION": "Teton / Sublette",
+   "SEASON_BEGIN": "1-Oct",
+   "SEASON_END": "31-May",
+   "LODGING_RATE": "$207 ",
+   "MEALS_RATE": "$79 "
+ },
+ {
+   "ID": 409,
+   "STATE": "WY",
+   "DESTINATION": "Jackson / Pinedale",
+   "COUNTY_LOCATION": "Teton / Sublette",
+   "SEASON_BEGIN": "1-Jun",
+   "SEASON_END": "30-Sep",
+   "LODGING_RATE": "$384 ",
+   "MEALS_RATE": "$79 "
+ }
+]
